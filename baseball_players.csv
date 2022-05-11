@@ -1,0 +1,1035 @@
+﻿Name,Team,Position,Height(inches),Weight(pounds),Age,,,,,,,,,,,,
+Adam_Donachie,BAL,C,74,180,22.99,,,,,,,,,,,,
+Paul_Bako,BAL,C,74,215,34.69,,,,,,,,,,,,
+Ramon_Hernandez,BAL,C,72,210,30.78,,,,,,,,,,,,
+Kevin_Millar,BAL,1B,72,210,35.43,,,,,,,,,,,,
+Chris_Gomez,BAL,1B,73,188,35.71,,,,,,,,,,,,
+Brian_Roberts,BAL,2B,69,176,29.39,,,,,,,,,,,,
+Miguel_Tejada,BAL,SS,69,209,30.77,,,last_name, first_name,player_id,team_id,team,position,age,competitive_runs,hp_to_1b,sprint_speed
+Melvin_Mora,BAL,3B,71,200,35.07,,,Locastro, Tim,641796,147,NYY,OF,29,44,4.07,30.7
+Aubrey_Huff,BAL,3B,76,231,30.19,,,Turner, Trea,607208,119,LAD,SS,28,257,4.13,30.7
+Adam_Stern,BAL,OF,71,180,27.05,,,White, Eli,642201,140,TEX,OF,27,61,4.16,30.5
+Jeff_Fiorentino,BAL,OF,73,188,23.88,,,Hill, Derek,656537,116,DET,OF,26,41,4.19,30.5
+Freddie_Bynum,BAL,OF,73,180,26.96,,,Mateo, Jorge,622761,110,BAL,SS,26,58,4.12,30.4
+Nick_Markakis,BAL,OF,74,185,23.29,,,Siri, Jose,642350,117,HOU,OF,26,19,4.07,30.4
+Brandon_Fahey,BAL,OF,74,160,26.11,,,McCarthy, Jake,664983,109,ARI,OF,24,23,,30.1
+Corey_Patterson,BAL,OF,69,180,27.55,,,Quinn, Roman,596451,143,PHI,OF,28,19,,30
+Jay_Payton,BAL,OF,70,185,34.27,,,Buxton, Byron,621439,142,MIN,OF,28,88,4,30
+Jay_Gibbons,BAL,DH,72,197,30,,,Berti, Jon,542932,146,MIA,3B,31,111,4.21,29.9
+Erik_Bedard,BAL,P,73,189,27.99,,,Hampson, Garrett,641658,115,COL,OF,27,144,4.18,29.9
+Hayden_Penn,BAL,P,75,185,22.38,,,Adell, Jo,666176,108,LAA,OF,22,56,4.28,29.9
+Adam_Loewen,BAL,P,78,219,22.89,,,Engel, Adam,641553,145,CWS,OF,30,46,4.16,29.7
+Daniel_Cabrera,BAL,P,79,230,25.76,,,Sosa, Edmundo,624641,138,STL,SS,25,126,4.3,29.7
+Steve_Trachsel,BAL,P,76,205,36.33,,,Taveras, Leody,665750,140,TEX,OF,23,56,4.16,29.7
+Jaret_Wright,BAL,P,74,230,31.17,,,O'Neill, Tyler,641933,138,STL,OF,26,125,4.23,29.7
+Kris_Benson,BAL,P,76,195,32.31,,,AOFord, Anthony,546990,134,PIT,OF,27,35,4.16,29.6
+Scott_Williamson,BAL,P,72,180,31.03,,,Rosario, Amed,642708,114,CLE,SS,26,248,4.2,29.5
+John_Parrish,BAL,P,71,192,29.26,,,Bader, Harrison,664056,138,STL,OF,27,129,4.21,29.5
+Danys_Baez,BAL,P,75,225,29.47,,,Hamilton, Billy,571740,145,CWS,OF,31,38,,29.5
+Chad_Bradford,BAL,P,77,203,32.46,,,Haggerty, Sam,664059,136,SEA,OF,27,34,4.27,29.5
+Jamie_Walker,BAL,P,74,195,35.67,,,Zimmer, Bradley,605548,114,CLE,OF,29,90,4.21,29.4
+Brian_Burres,BAL,P,73,182,25.89,,,Acuña Jr., Ronald,660670,144,ATL,OF,24,77,4.23,29.4
+Kurt_Birkins,BAL,P,74,188,26.55,,,Martin, Richie,621006,110,BAL,SS,27,33,4.21,29.4
+James_Hoey,BAL,P,78,200,24.17,,,Straw, Myles,664702,114,CLE,OF,27,199,4.12,29.3
+Sendy_Rleal,BAL,P,73,180,26.69,,,Stevenson, Andrew,664057,120,WSH,OF,27,62,4.21,29.3
+Chris_Ray,BAL,P,75,200,25.13,,,Velazquez, Andrew,623205,147,NYY,SS,27,25,,29.3
+Jeremy_Guthrie,BAL,P,73,200,27.9,,,Trout, Mike,545361,108,LAA,OF,30,38,4.3,29.3
+A.J._Pierzynski,CWS,C,75,245,30.17,,,Duran, Jarren,680776,111,BOS,OF,25,37,4.17,29.3
+Toby_Hall,CWS,C,75,240,31.36,,,Tatis Jr., Fernando,665487,135,SD,SS,22,148,4.26,29.3
+Paul_Konerko,CWS,1B,74,215,30.99,,,Olivares, Edward,658668,118,KC,OF,25,43,4.29,29.3
+Tadahito_Iguchi,CWS,2B,69,185,32.24,,,McKenna, Ryan,663630,110,BAL,OF,24,55,4.24,29.3
+Juan_Uribe,CWS,SS,71,175,27.61,,,Meyers, Jake,676694,117,HOU,OF,25,52,4.33,29.2
+Alex_Cintron,CWS,SS,74,199,28.2,,,Gosselin, Phil,594838,108,LAA,OF,33,134,4.27,29.2
+Joe_Crede,CWS,3B,73,200,28.85,,,Kiermaier, Kevin,595281,139,TB,OF,31,164,4.11,29.2
+Josh_Fields,CWS,3B,73,215,24.21,,,Vierling, Matt,663837,143,PHI,1B,25,25,4.4,29.2
+Ryan_Sweeney,CWS,OF,76,200,22.02,,,Marsh, Brandon,669016,108,LAA,OF,24,75,4.26,29.1
+Brian_N._Anderson,CWS,OF,74,205,24.97,,,Miller, Owen,680911,114,CLE,2B,25,77,4.32,29.1
+Luis_Terrero,CWS,OF,74,206,26.78,,,Chisholm Jr., Jazz,665862,146,MIA,2B,23,171,4.12,29.1
+Pablo_Ozuna,CWS,OF,70,186,32.51,,,Lux, Gavin,666158,119,LAD,SS,24,135,4.18,29.1
+Scott_Podsednik,CWS,OF,72,188,30.95,,,Senzel, Nick,669222,113,CIN,OF,26,44,4.37,29.1
+Jermaine_Dye,CWS,OF,77,220,33.09,,,Heath, Nick,670084,109,ARI,OF,28,12,,29.1
+Darin_Erstad,CWS,OF,74,210,32.74,,,Wade, Tyler,642180,147,NYY,SS,27,55,4.14,29.1
+Rob_Mackowiak,CWS,OF,70,195,30.69,,,Bolt, Skye,621450,133,OAK,OF,27,18,,29
+Jim_Thome,CWS,DH,76,244,36.51,,,Giménez, Andrés,665926,114,CLE,SS,23,74,4.2,29
+Jerry_Owens,CWS,DH,75,195,26.03,,,Solak, Nick,669256,140,TEX,2B,26,204,4.23,29
+Charlie_Haeger,CWS,P,73,200,23.45,,,Thomas, Lane,657041,120,WSH,OF,26,85,4.36,29
+Heath_Phillips,CWS,P,75,200,24.94,,,Peters, DJ,656847,140,TEX,OF,26,65,4.28,29
+Gavin_Floyd,CWS,P,76,212,24.09,,,Williams, Luke,663897,143,PHI,OF,25,41,4.3,28.9
+Jose_Contreras,CWS,P,76,224,35.23,,,Hilliard, Sam,656541,115,COL,OF,27,59,4.24,28.9
+Jon_Garland,CWS,P,78,210,27.43,,,Florial, Estevan,664314,147,NYY,OF,24,11,,28.9
+Javier_Vazquez,CWS,P,74,205,30.6,,,Raley, Luke,670042,119,LAD,OF,27,22,,28.9
+Mark_Buehrle,CWS,P,74,220,27.94,,,Edman, Tommy,669242,138,STL,2B,26,291,4.22,28.9
+Mike_MacDougal,CWS,P,76,195,29.99,,,Oliva, Jared,666931,134,PIT,OF,26,18,,28.9
+David_Aardsma,CWS,P,77,200,25.17,,,Sierra, Magneuris,642423,146,MIA,OF,25,92,4.04,28.9
+Andrew_Sisco,CWS,P,81,260,24.13,,,Nimmo, Brandon,607043,121,NYM,OF,28,127,4.2,28.9
+Matt_Thornton,CWS,P,78,228,30.46,,,Mercado, Oscar,640458,114,CLE,OF,27,84,4.37,28.9
+Bobby_Jenks,CWS,P,75,270,25.96,,,Baddoo, Akil,668731,116,DET,OF,23,153,4.13,28.9
+Boone_Logan,CWS,P,77,200,22.55,,,Pache, Cristian,665506,144,ATL,OF,23,24,4.36,28.9
+Sean_Tracey,CWS,P,75,210,26.29,,,Grisham, Trent,663757,135,SD,OF,25,168,4.34,28.8
+Nick_Masset,CWS,P,76,190,24.79,,,Taylor, Chris,621035,119,LAD,OF,31,161,4.34,28.8
+Jose_Molina,ANA,C,74,220,31.74,,,Ohtani, Shohei,660271,108,LAA,DH,27,140,4.09,28.8
+Jeff_Mathis,ANA,C,72,180,23.92,,,Realmuto, J.T.,592663,143,PHI,C,30,163,4.28,28.8
+Mike_Napoli,ANA,C,72,205,25.33,,,Hoerner, Nico,663538,112,CHC,2B,24,69,4.28,28.8
+Casey_Kotchman,ANA,1B,75,210,24.02,,,Marisnick, Jake,545350,135,SD,OF,30,53,4.39,28.8
+Kendry_Morales,ANA,1B,73,220,23.7,,,LaMarre, Ryan,534606,147,NYY,OF,33,11,,28.8
+Shea_Hillenbrand,ANA,1B,73,211,31.59,,,Arozarena, Randy,668227,139,TB,OF,26,203,4.25,28.8
+Robb_Quinlan,ANA,1B,73,200,29.95,,,Devers, José,672701,146,MIA,2B,22,18,,28.8
+Howie_Kendrick,ANA,1B,70,180,23.64,,,Davis, Jonathan,641505,147,NYY,OF,29,27,4.34,28.8
+Orlando_Cabrera,ANA,SS,70,190,32.33,,,Reyes, Victor,622682,116,DET,OF,27,91,4.35,28.8
+Erick_Aybar,ANA,SS,70,170,23.13,,,McCormick, Chas,676801,117,HOU,OF,26,73,4.32,28.8
+Dallas_McPherson,ANA,3B,76,230,26.6,,,Story, Trevor,596115,115,COL,SS,29,175,4.31,28.7
+Maicer_Izturis,ANA,3B,68,155,26.46,,,Hernández, César,514917,145,CWS,2B,31,212,4.24,28.7
+Reggie_Willits,ANA,OF,71,185,25.75,,,Castro, Willi,650489,116,DET,2B,24,162,4.24,28.7
+Tommy_Murphy,ANA,OF,72,185,27.51,,,Cain, Lorenzo,456715,158,MIL,OF,35,114,4.38,28.7
+Terry_Evans,ANA,OF,75,200,25.11,,,McCutchen, Andrew,457705,143,PHI,OF,35,149,4.37,28.7
+Gary_Matthews_Jr.,ANA,OF,75,225,32.51,,,Chavis, Michael,656308,134,PIT,2B,26,44,4.38,28.7
+Garret_Anderson,ANA,OF,75,225,34.67,,,García, Avisaíl,541645,158,MIL,OF,30,163,4.47,28.7
+Vladimir_Guerrero,ANA,OF,75,220,31.06,,,Reynolds, Bryan,668804,134,PIT,OF,26,200,4.28,28.7
+Chone_Figgins,ANA,OF,68,160,29.1,,,Jankowski, Travis,608671,143,PHI,OF,30,48,4.22,28.7
+Juan_Rivera,ANA,OF,74,205,28.66,,,Brinson, Lewis,621446,146,MIA,OF,27,103,4.33,28.6
+John_Lackey,ANA,P,78,235,28.35,,,Ramirez, Harold,623912,114,CLE,OF,27,159,4.33,28.6
+Bartolo_Colon,ANA,P,71,250,33.77,,,Marcano, Tucupita,672779,135,SD,2B,22,23,4.25,28.6
+Kelvim_Escobar,ANA,P,73,210,30.89,,,Margot, Manuel,622534,139,TB,OF,27,188,4.27,28.6
+Dustin_Moseley,ANA,P,76,190,37.74,,,Difo, Wilmer,594694,134,PIT,2B,29,85,4.31,28.6
+Ervin_Santana,ANA,P,74,160,24.14,,,Merrifield, Whit,593160,118,KC,2B,32,257,4.32,28.6
+Joe_Saunders,ANA,P,74,200,25.71,,,Cordero, Franchy,614173,111,BOS,OF,27,42,4.25,28.6
+Jered_Weaver,ANA,P,79,205,24.41,,,Taylor, Tyrone,621438,158,MIL,OF,27,91,4.47,28.6
+Chris_Resop,ANA,P,75,222,24.32,,,Semien, Marcus,543760,141,TOR,2B,31,189,4.37,28.6
+Phil_Seibel,ANA,P,73,195,28.09,,,Gardner, Brett,458731,147,NYY,OF,38,148,4.15,28.6
+Justin_Speier,ANA,P,76,205,33.31,,,Duvall, Adam,594807,144,ATL,OF,33,134,4.43,28.6
+Darren_Oliver,ANA,P,74,220,36.4,,,Walls, Taylor,670764,139,TB,SS,25,54,4.3,28.6
+Hector_Carrasco,ANA,P,74,220,37.36,,,Báez, Javier,595879,121,NYM,SS,29,149,4.32,28.6
+Scot_Shields,ANA,P,73,170,31.61,,,Mullins, Cedric,656775,110,BAL,OF,27,216,4.17,28.5
+Francisco_Rodriguez,ANA,P,72,185,25.14,,,Cronenworth, Jake,630105,135,SD,2B,27,211,4.26,28.5
+Greg_Jones,ANA,P,74,195,30.29,,,Franco, Wander,677551,139,TB,SS,20,123,4.24,28.5
+Doug_Mirabelli,BOS,C,73,220,36.37,,,India, Jonathan,663697,113,CIN,2B,25,202,4.4,28.5
+Jason_Varitek,BOS,C,74,230,34.89,,,Goodrum, Niko,592348,116,DET,SS,29,87,4.34,28.5
+George_Kottaras,BOS,C,72,180,23.79,,,Phillips, Brett,621433,139,TB,OF,27,74,4.16,28.5
+Kevin_Youkilis,BOS,1B,73,220,27.96,,,Duggar, Steven,621453,137,SF,OF,28,81,4.3,28.5
+Dustin_Pedroia,BOS,2B,69,180,23.54,,,Hernández, Teoscar,606192,141,TOR,OF,29,166,4.34,28.5
+Alex_Cora,BOS,SS,72,180,31.37,,,Mondesi, Adalberto,609275,118,KC,3B,26,40,,28.5
+Julio_Lugo,BOS,SS,73,170,31.29,,,Estrada, Thairo,642731,137,SF,SS,25,49,4.31,28.5
+Mike_Lowell,BOS,3B,75,210,33.01,,,Varsho, Daulton,662139,109,ARI,C,25,100,4.2,28.4
+Wily_Mo_Pe?a,BOS,OF,75,215,25.1,,,García, Leury,544725,145,CWS,2B,30,196,4.21,28.4
+J.D._Drew,BOS,OF,73,200,31.28,,,Nootbaar, Lars,663457,138,STL,OF,24,39,4.28,28.4
+Manny_Ramirez,BOS,OF,72,213,34.75,,,Slater, Austin,596103,137,SF,OF,29,106,4.39,28.4
+Brandon_Moss,BOS,OF,72,180,23.46,,,Clement, Ernie,676391,114,CLE,2B,25,39,4.3,28.4
+David_Murphy,BOS,OF,76,192,25.37,,,García, Adolis,666969,140,TEX,OF,28,163,4.32,28.4
+Eric_Hinske,BOS,OF,74,235,29.57,,,Albies, Ozzie,645277,144,ATL,2B,24,220,4.11,28.4
+Coco_Crisp,BOS,OF,72,185,27.33,,,Kim, Ha-Seong,673490,135,SD,SS,26,95,4.39,28.4
+David_Ortiz,BOS,DH,76,230,31.28,,,Marte, Starling,516782,133,OAK,OF,33,208,4.22,28.4
+Curt_Schilling,BOS,P,77,235,40.29,,,Moore, Dylan,664238,136,SEA,2B,29,84,4.38,28.4
+Tim_Wakefield,BOS,P,74,210,40.58,,,Short, Zack,670097,116,DET,SS,26,35,4.31,28.4
+Josh_Beckett,BOS,P,77,222,26.79,,,Newman, Kevin,621028,134,PIT,SS,28,237,4.35,28.4
+Matt_Clement,BOS,P,75,210,32.55,,,Springer, George,543807,141,TOR,OF,32,87,4.33,28.4
+Jonathan_Papelbon,BOS,P,76,230,26.27,,,AOFaro, Jorge,595751,146,MIA,C,28,98,4.44,28.4
+Kyle_Snyder,BOS,P,80,220,29.47,,,Swanson, Dansby,621020,144,ATL,SS,27,202,4.31,28.4
+Devern_Hansack,BOS,P,74,180,29.07,,,Chang, Yu,644374,114,CLE,1B,26,76,4.53,28.3
+Jon_Lester,BOS,P,74,190,23.15,,,DeShields, Delino,592261,113,CIN,OF,29,20,,28.3
+Kason_Gabbard,BOS,P,75,200,24.9,,,Yelich, Christian,592885,158,MIL,OF,30,177,4.35,28.3
+Craig_Hansen,BOS,P,78,210,23.29,,,Palacios, Josh,641943,141,TOR,OF,26,14,,28.3
+Hideki_Okajima,BOS,P,73,194,31.18,,,Tapia, Raimel,606132,115,COL,OF,27,297,4.21,28.3
+Craig_Breslow,BOS,P,73,180,26.56,,,Robles, Victor,645302,120,WSH,OF,24,88,4.41,28.3
+Manny_Delcarmen,BOS,P,74,190,25.03,,,Johnson, Daniel,669288,114,CLE,OF,26,20,,28.3
+Brendan_Donnelly,BOS,P,75,240,35.66,,,Biggio, Cavan,624415,141,TOR,3B,26,76,4.41,28.3
+Javier_Lopez,BOS,P,76,200,29.64,,,Myers, Wil,571976,135,SD,OF,31,145,4.38,28.3
+J.C._Romero,BOS,P,71,198,30.74,,,Celestino, Gilberto,665482,142,MIN,OF,22,28,4.44,28.3
+Joel_Pineiro,BOS,P,73,200,28.43,,,Gutierrez, Kelvin,642721,110,BAL,3B,27,115,4.37,28.3
+Julian_Tavarez,BOS,P,74,195,33.77,,,Fargas, Johneshwy,641561,112,CHC,OF,27,23,4.47,28.3
+Mike_Timlin,BOS,P,76,210,40.97,,,Aquino, Aristides,606157,113,CIN,OF,27,44,4.46,28.3
+Nick_DeBarr,BOS,P,76,220,23.52,,,Daza, Yonathan,602074,115,COL,OF,27,130,4.33,28.3
+Victor_Martinez,CLE,C,74,190,28.19,,,Jones, Jahmai,663330,110,BAL,2B,24,16,4.35,28.3
+Kelly_Shoppach,CLE,C,73,210,26.84,,,Park, Hoy,660829,134,PIT,2B,25,41,4.19,28.3
+Ryan_Garko,CLE,1B,74,225,26.16,,,Stubbs, Garrett,596117,117,HOU,C,28,15,,28.2
+Joe_Inglett,CLE,2B,70,180,28.67,,,Iglesias, José,578428,111,BOS,SS,31,198,4.21,28.3
+Josh_BaOField,CLE,2B,72,185,24.2,,,Ward, Taylor,621493,108,LAA,OF,28,68,4.38,28.3
+Hector_Luna,CLE,2B,73,170,27.08,,,Young, Andrew,670370,109,ARI,2B,27,26,4.59,28.2
+Jhonny_Peralta,CLE,SS,73,185,24.76,,,Lagares, Juan,501571,108,LAA,OF,32,113,4.45,28.2
+Andy_Marte,CLE,3B,73,185,23.36,,,Lopez, Nicky,670032,118,KC,SS,26,254,4.19,28.2
+Ben_Francisco,CLE,OF,73,180,25.35,,,Taylor, Michael A.,572191,118,KC,OF,30,159,4.3,28.2
+Shin-Soo_Choo,CLE,OF,71,178,24.63,,,Owings, Chris,572008,115,COL,2B,30,19,,28.2
+Franklin_Gutierrez,CLE,OF,74,175,24.02,,,Dalbec, Bobby,666915,111,BOS,1B,26,109,4.46,28.2
+Grady_Sizemore,CLE,OF,74,200,24.58,,,Cameron, Daz,663662,116,DET,OF,24,29,4.46,28.2
+Jason_Michaels,CLE,OF,72,204,30.82,,,Fowler, Dustin,641583,134,PIT,OF,27,11,,28.2
+Trot_Nixon,CLE,OF,74,211,32.89,,,Isbel, Kyle,664728,118,KC,OF,24,24,,28.2
+David_Dellucci,CLE,OF,71,190,33.33,,,Dozier, Hunter,641531,118,KC,3B,30,159,4.44,28.2
+Casey_Blake,CLE,OF,74,210,33.52,,,De La Cruz, Bryan,650559,146,MIA,OF,25,68,4.49,28.2
+Travis_Hafner,CLE,DH,75,240,29.74,,,Gonzalez, Romy,663853,145,CWS,3B,25,13,,28.2
+Paul_Byrd,CLE,P,73,190,36.24,,,Ramírez, José,608070,114,CLE,3B,29,197,4.34,28.2
+Cliff_Lee,CLE,P,75,190,28.5,,,Peterson, Jace,607054,158,MIL,2B,31,84,4.33,28.1
+Jake_Westbrook,CLE,P,75,185,29.42,,,Culberson, Charlie,518586,140,TEX,3B,32,107,4.28,28.1
+C.C._Sabathia,CLE,P,79,290,26.61,,,Toro, Abraham,647351,136,SEA,2B,25,119,4.3,28.1
+Jeremy_Sowers,CLE,P,73,175,23.79,,,Brown, Seth,664913,133,OAK,OF,29,80,4.44,28.1
+Rafael_Perez,CLE,P,75,185,24.96,,,Rengifo, Luis,650859,108,LAA,SS,24,77,4.26,28.1
+Brian_Slocum,CLE,P,76,200,25.93,,,Wisdom, Patrick,621550,112,CHC,3B,30,65,4.42,28.1
+Edward_Mujica,CLE,P,74,220,22.81,,,Grichuk, Randal,545341,141,TOR,OF,30,172,4.45,28.1
+Fernando_Cabrera,CLE,P,76,170,25.29,,,Chapman, Matt,656305,133,OAK,3B,28,149,4.44,28.1
+Tom_Mastny,CLE,P,78,220,26.07,,,Tom, Ka'ai,664789,134,PIT,OF,27,34,4.24,28.1
+Juan_Lara,CLE,P,74,190,26.09,,,Akiyama, Shogo,673451,113,CIN,OF,33,77,4.1,28.1
+Fausto_Carmona,CLE,P,76,220,23.23,,,Madrigal, Nick,663611,145,CWS,2B,24,123,4.29,28.1
+Aaron_Fultz,CLE,P,72,205,33.49,,,Mountcastle, Ryan,663624,110,BAL,1B,24,143,4.44,28.1
+Rafael_Betancourt,CLE,P,74,200,31.84,,,Bellinger, Cody,641355,119,LAD,OF,26,81,4.24,28.1
+Roberto_Hernandez,CLE,P,76,250,42.3,,,Kiner-Falefa, Isiah,643396,140,TEX,SS,26,312,4.29,28
+Joe_Borowski,CLE,P,74,225,35.82,,,Eaton, Adam,594809,108,LAA,OF,33,100,4.25,28
+Matt_Miller,CLE,P,75,215,35.27,,,Bichette, Bo,666182,141,TOR,SS,23,240,4.4,28
+Jason_Davis,CLE,P,78,210,26.81,,,Anderson, Tim,641313,145,CWS,SS,28,233,4.32,28
+Mike_Piazza,OAK,C,75,215,38.49,,,Ibáñez, Andy,628451,140,TEX,2B,28,96,4.33,28
+Jason_Kendall,OAK,C,72,195,32.68,,,White, Evan,657108,136,SEA,1B,25,22,4.42,28
+Adam_Melhuse,OAK,C,74,200,34.93,,,Carlson, Dylan,666185,138,STL,OF,23,183,4.37,28
+Nick_Swisher,OAK,1B,72,194,26.26,,,Santana, Danny,542454,111,BOS,OF,31,34,4.31,28
+Dan_Johnson,OAK,1B,74,220,27.56,,,Trammell, Taylor,666211,136,SEA,OF,24,45,4.28,28
+Donald_Murphy,OAK,2B,70,180,23.98,,,Adames, Willy,642715,158,MIL,SS,26,172,4.4,28
+Mark_Ellis,OAK,2B,71,180,29.73,,,Almora Jr., Albert,546991,121,NYM,OF,27,20,,28
+Marco_Scutaro,OAK,SS,70,170,31.33,,,Robert, Luis,673357,145,CWS,OF,24,97,4.41,28
+Bobby_Crosby,OAK,SS,75,195,27.13,,,Alvarez, Eddy,657193,146,MIA,3B,31,24,,28
+Mark_Kiger,OAK,SS,71,180,26.75,,,Polanco, Jorge,593871,142,MIN,2B,28,179,4.23,28
+Antonio_Perez,OAK,3B,71,170,27.09,,,Arroyo, Christian,624414,111,BOS,2B,26,87,4.44,27.9
+Eric_Chavez,OAK,3B,73,206,29.23,,,Altuve, Jose,514888,117,HOU,2B,31,240,4.22,28
+Milton_Bradley,OAK,OF,72,205,28.88,,,McKinstry, Zach,656716,119,LAD,OF,26,51,4.31,27.9
+Shannon_Stewart,OAK,OF,71,200,33.01,,,Dubón, Mauricio,643289,137,SF,SS,27,54,4.35,27.9
+Bobby_Kielty,OAK,OF,73,225,30.57,,,Cave, Jake,595909,142,MIN,OF,29,52,4.42,27.9
+Mark_Kotsay,OAK,OF,72,201,31.24,,,Haase, Eric,606992,116,DET,C,29,103,4.5,27.9
+Ryan_Goleski,OAK,OF,75,225,24.95,,,Bryant, Kris,592178,137,SF,3B,29,171,4.38,27.9
+Jeremy_Brown,OAK,DH,70,226,27.35,,,Barrero, Jose,676480,113,CIN,SS,23,18,,27.9
+Jason_Windsor,OAK,P,74,233,24.62,,,Brosseau, Mike,670712,139,TB,2B,27,45,4.44,27.9
+David_Shafer,OAK,P,74,180,24.98,,,Allen, Greg,656185,147,NYY,OF,28,14,,27.9
+Joe_Blanton,OAK,P,75,225,26.22,,,Wendle, Joey,621563,139,TB,3B,31,197,4.3,27.9
+Brad_Halsey,OAK,P,73,180,26.04,,,Gordon, Nick,624503,142,MIN,OF,26,70,4.43,27.9
+Dan_Haren,OAK,P,77,220,26.45,,,O'Grady, Brian,657434,135,SD,OF,29,12,,27.9
+Rich_Harden,OAK,P,73,180,25.25,,,Sánchez, Jesús,660821,146,MIA,OF,24,78,4.35,27.8
+Joe_Kennedy,OAK,P,76,237,27.77,,,Moniak, Mickey,666160,143,PHI,OF,23,10,,27.8
+Esteban_Loaiza,OAK,P,75,215,35.16,,,Ahmed, Nick,605113,109,ARI,SS,31,170,4.46,27.8
+Alan_Embree,OAK,P,74,190,37.1,,,Marchan, Rafael,665561,143,PHI,C,22,20,,27.8
+Jay_Witasick,OAK,P,76,235,34.51,,,Hayes, Ke'Bryan,663647,134,PIT,3B,24,154,4.4,27.8
+Justin_Duchscherer,OAK,P,75,190,29.28,,,Harper, Bryce,547180,143,PHI,OF,29,160,4.38,27.8
+Kiko_Calero,OAK,P,73,180,32.14,,,Riley, Austin,663586,144,ATL,3B,24,211,4.49,27.8
+Chad_Gaudin,OAK,P,71,165,23.94,,,Reyes, Pablo,622569,158,MIL,3B,28,31,4.5,27.8
+Lenny_DiNardo,OAK,P,76,195,27.45,,,Pham, Tommy,502054,135,SD,OF,33,172,4.54,27.8
+Scott_Dunn,OAK,P,75,200,28.77,,,Almonte, Abraham,501659,144,ATL,OF,32,52,4.4,27.8
+Huston_Street,OAK,P,72,190,23.58,,,Pollock, AJ,572041,119,LAD,OF,34,146,4.39,27.8
+Ron_Flores,OAK,P,71,190,27.56,,,Dyson, Jarrod,502481,141,TOR,OF,37,65,4.26,27.8
+Jay_Marshall,OAK,P,77,185,24.01,,,Freeman, Mike,502273,113,CIN,SS,34,19,,27.8
+Marcus_McBeth,OAK,P,73,185,26.52,,,Smith, Will,669257,119,LAD,C,26,147,4.47,27.8
+Jorge_Posada,NYY,C,74,205,35.54,,,Lindor, Francisco,596019,121,NYM,SS,28,154,4.37,27.8
+Wil_Nieves,NYY,C,71,190,29.43,,,Grossman, Robbie,543257,116,DET,OF,32,159,4.38,27.8
+Andy_Phillips,NYY,1B,72,205,29.9,,,Canha, Mark,592192,133,OAK,OF,32,203,4.42,27.8
+Doug_Mientkiewicz,NYY,1B,74,206,32.7,,,Heredia, Guillermo,628338,144,ATL,OF,30,123,4.36,27.8
+Josh_Phelps,NYY,1B,75,220,28.8,,,O'Hearn, Ryan,656811,118,KC,DH,28,62,4.5,27.8
+Miguel_Cairo,NYY,2B,73,208,32.82,,,Bohm, Alec,664761,143,PHI,3B,25,141,4.54,27.8
+Robinson_Cano,NYY,2B,72,170,24.36,,,Gamel, Ben,592325,134,PIT,OF,29,100,4.38,27.7
+Derek_Jeter,NYY,SS,75,195,32.68,,,Moncada, Yoán,660162,145,CWS,3B,26,165,4.33,27.7
+Alex_Rodriguez,NYY,3B,75,210,31.59,,,Happ, Ian,664023,112,CHC,OF,27,146,4.38,27.7
+Johnny_Damon,NYY,OF,74,190,33.32,,,Lewis, Kyle,641786,136,SEA,OF,26,31,4.46,27.7
+Bobby_Abreu,NYY,OF,72,211,32.97,,,Fraley, Jake,641584,136,SEA,OF,26,67,4.3,27.7
+Hideki_Matsui,NYY,OF,74,230,32.72,,,Bogaerts, Xander,593428,111,BOS,SS,29,221,4.29,27.7
+Melky_Cabrera,NYY,OF,71,170,22.55,,,Burger, Jake,669394,145,CWS,3B,25,14,,27.7
+Kevin_Thompson,NYY,OF,70,185,27.45,,,Fletcher, David,664058,108,LAA,2B,27,296,4.34,27.7
+Jason_Giambi,NYY,DH,75,230,36.14,,,Dahl, David,621311,140,TEX,OF,27,69,4.32,27.7
+Mike_Mussina,NYY,P,74,185,38.23,,,Gregorius, Didi,544369,143,PHI,SS,31,120,4.38,27.7
+Carl_Pavano,NYY,P,77,241,31.14,,,Blackmon, Charlie,453568,115,COL,OF,35,213,4.33,27.7
+Andy_Pettitte,NYY,P,77,225,34.71,,,Naquin, Tyler,571980,113,CIN,OF,30,145,4.42,27.7
+Darrell_Rasner,NYY,P,75,210,26.13,,,Romine, Andrew,461865,112,CHC,SS,36,19,,27.6
+Jeff_Karstens,NYY,P,75,175,24.43,,,Laureano, Ramón,657656,133,OAK,OF,27,127,4.38,27.6
+Humberto_Sanchez,NYY,P,78,230,23.76,,,Jansen, Danny,643376,141,TOR,C,26,60,4.48,27.6
+Chien-Ming_Wang,NYY,P,75,200,26.92,,,Castellanos, Nick,592206,113,CIN,OF,29,190,4.42,27.6
+Sean_Henn,NYY,P,76,215,25.85,,,McKinney, Billy,641856,119,LAD,OF,27,76,4.36,27.6
+Scott_Proctor,NYY,P,73,198,30.16,,,Contreras, Willson,575929,112,CHC,C,29,141,4.43,27.6
+Brian_Bruney,NYY,P,75,226,25.03,,,Andújar, Miguel,609280,147,NYY,OF,26,64,4.45,27.6
+Chris_Britton,NYY,P,75,278,24.21,,,Lowe, Brandon,664040,139,TB,2B,27,152,4.33,27.6
+T.J._Beam,NYY,P,79,215,26.51,,,Evans, Phillip,595943,134,PIT,1B,29,88,4.46,27.6
+Jose_Veras,NYY,P,77,230,26.36,,,Judge, Aaron,592450,147,NYY,OF,29,172,4.65,27.6
+Kyle_Farnsworth,NYY,P,76,240,30.88,,,Tucker, Cole,657061,134,PIT,SS,25,45,4.33,27.6
+Luis_Vizcaino,NYY,P,71,184,32.57,,,Dean, Austin,621573,138,STL,,28,17,,27.6
+Mike_Myers,NYY,P,75,219,37.68,,,Luplow, Jordan,656669,139,TB,OF,28,42,4.43,27.6
+Mariano_Rivera,NYY,P,74,170,37.25,,,Fuentes, Joshua,658069,115,COL,3B,28,81,4.44,27.6
+Ivan_Rodriguez,DET,C,69,218,35.25,,,Peralta, David,444482,109,ARI,OF,34,222,4.38,27.6
+Vance_Wilson,DET,C,71,190,33.95,,,Pillar, Kevin,607680,121,NYM,OF,32,83,4.4,27.6
+Sean_Casey,DET,1B,76,225,32.66,,,Rojas, Josh,668942,109,ARI,2B,27,180,4.33,27.6
+Chris_Shelton,DET,1B,72,220,26.68,,,Wong, Kean,642221,108,LAA,2B,26,19,4.38,27.6
+Omar_Infante,DET,2B,72,176,25.18,,,Benintendi, Andrew,643217,118,KC,OF,27,167,4.39,27.6
+Placido_Polanco,DET,2B,70,190,31.39,,,Peraza, José,606299,121,NYM,2B,27,45,4.44,27.6
+Neifi_Perez,DET,2B,72,197,33.74,,,Rondón, José,602922,138,STL,,27,22,4.5,27.6
+Carlos_Guillen,DET,SS,73,204,31.42,,,Martin, Jason,641829,140,TEX,OF,26,42,4.39,27.5
+Ramon_Santiago,DET,SS,71,167,27.5,,,DeJong, Paul,657557,138,STL,SS,28,111,4.5,27.5
+Tony_Giarratano,DET,SS,72,180,24.25,,,Miller, Brad,543543,143,PHI,1B,32,94,4.39,27.5
+Brandon_Inge,DET,3B,71,195,29.78,,,Ortega, Rafael,542364,112,CHC,OF,30,95,4.43,27.5
+Craig_Monroe,DET,OF,73,220,30,,,Jiménez, Eloy,650391,145,CWS,OF,25,84,4.46,27.5
+Magglio_Ordo?ez,DET,OF,72,215,33.09,,,Bauers, Jake,641343,136,SEA,1B,26,72,4.42,27.5
+Curtis_Granderson,DET,OF,73,185,25.96,,,Meadows, Austin,640457,139,TB,OF,26,154,4.4,27.5
+Brent_Clevlen,DET,OF,74,190,23.34,,,Upton, Justin,457708,108,LAA,OF,34,89,4.6,27.5
+Marcus_Thames,DET,OF,74,205,29.98,,,Perdomo, Geraldo,672695,109,ARI,SS,22,14,,27.5
+Gary_Sheffield,DET,OF,72,205,38.28,,,González, Erik,570481,134,PIT,3B,30,115,4.43,27.5
+Mike_Rabelo,DET,DH,73,200,27.12,,,Crawford, J.P.,641487,136,SEA,SS,26,243,4.41,27.5
+Zach_Miner,DET,P,75,200,24.97,,,Kepler, Max,596146,142,MIN,OF,28,141,4.36,27.4
+Jeremy_Bonderman,DET,P,74,210,24.34,,,Castro, RodoOFo,666801,134,PIT,2B,22,30,,27.4
+Nate_Robertson,DET,P,74,215,29.49,,,Kirilloff, Alex,666135,142,MIN,1B,24,89,4.34,27.4
+Justin_Verlander,DET,P,77,200,24.02,,,Tucker, Kyle,663656,117,HOU,OF,24,169,4.41,27.4
+Virgil_Vasquez,DET,P,75,205,24.73,,,Hernández, Enrique,571771,111,BOS,OF,30,182,4.47,27.4
+Kenny_Rogers,DET,P,73,211,42.3,,,Kieboom, Carter,666198,120,WSH,3B,24,84,4.56,27.4
+Mike_Maroth,DET,P,72,190,29.54,,,Escobar, Alcides,444876,120,WSH,SS,35,128,4.37,27.4
+Fernando_Rodney,DET,P,71,208,29.95,,,Knapp, Andrew,595284,143,PHI,C,30,34,,27.4
+Chad_Durbin,DET,P,74,200,29.24,,,Escobar, Eduardo,500871,158,MIL,3B,32,163,4.34,27.4
+Jason_Grilli,DET,P,77,210,30.3,,,Jones, JaCoby,592444,116,DET,OF,29,30,4.54,27.4
+Jose_Mesa,DET,P,75,232,40.77,,,Gallo, Joey,608336,147,NYY,OF,28,110,4.53,27.4
+Todd_Jones,DET,P,75,230,38.85,,,Walker, Christian,572233,109,ARI,1B,30,132,4.54,27.4
+Joel_Zumaya,DET,P,75,210,22.31,,,Rivera, Emmanuel,656896,118,KC,3B,25,32,,27.4
+Jordan_Tata,DET,P,78,220,25.44,,,Hays, Austin,669720,110,BAL,OF,26,194,4.42,27.4
+Andrew_Miller,DET,P,78,210,21.78,,,Espinal, Santiago,669289,141,TOR,3B,27,106,4.33,27.3
+Yorman_Bazardo,DET,P,74,202,22.64,,,Friedl, TJ,670770,113,CIN,OF,26,11,,27.3
+WiOFredo_Ledezma,DET,P,76,212,26.11,,,Goodwin, Brian,571718,145,CWS,OF,31,64,4.34,27.3
+Roman_Colon,DET,P,78,225,27.55,,,Refsnyder, Rob,608701,142,MIN,OF,30,42,4.44,27.3
+Edward_Campusano,DET,P,76,170,24.63,,,Yastrzemski, Mike,573262,137,SF,OF,31,131,4.39,27.3
+Rene_Rivera,SEA,C,70,190,23.58,,,Villar, Jonathan,542340,121,NYM,3B,30,162,4.38,27.3
+Kenji_Johjima,SEA,C,72,200,30.73,,,Herrera, Odúbel,546318,143,PHI,OF,30,197,4.27,27.3
+Richie_Sexson,SEA,1B,80,237,32.17,,,Segura, Jean,516416,143,PHI,2B,31,229,4.33,27.3
+Ben_Broussard,SEA,1B,74,220,30.43,,,Tauchman, Mike,643565,137,SF,OF,31,61,4.34,27.3
+Jose_Lopez,SEA,2B,74,170,23.27,,,Hiura, Keston,669374,158,MIL,1B,25,45,4.59,27.3
+Jose_Vidro,SEA,2B,71,193,32.51,,,Renfroe, Hunter,592669,111,BOS,OF,29,185,4.49,27.3
+Yuniesky_Betancourt,SEA,SS,70,190,25.08,,,Rooker, Brent,667670,142,MIN,OF,27,44,4.57,27.3
+Oswaldo_Navarro,SEA,SS,72,150,22.41,,,Lowe, Nathaniel,663993,140,TEX,1B,26,214,4.37,27.3
+Adrian_Beltre,SEA,3B,71,220,27.9,,,Dickerson, Corey,572816,141,TOR,OF,32,148,4.32,27.2
+Raul_Ibanez,SEA,OF,74,200,34.74,,,Souza Jr., Steven,519306,119,LAD,OF,32,12,,27.2
+Jose_Guillen,SEA,OF,71,190,30.79,,,Polanco, Gregory,570256,134,PIT,OF,30,102,4.37,27.2
+Jeremy_Reed,SEA,OF,72,185,25.71,,,Candelario, Jeimer,600869,116,DET,3B,28,215,4.51,27.2
+Willie_Bloomquist,SEA,OF,71,185,29.26,,,Schrock, Max,621011,113,CIN,OF,27,41,4.33,27.2
+Adam_Jones,SEA,OF,74,200,21.58,,,Rojas, Jose,670351,108,LAA,OF,28,53,4.34,27.2
+Ichiro_Suzuki,SEA,OF,69,172,33.36,,,Bote, David,623520,112,CHC,2B,28,103,4.47,27.2
+Mike_Morse,SEA,OF,76,220,24.94,,,Mayfield, Jack,608686,108,LAA,3B,31,79,4.38,27.2
+Felix_Hernandez,SEA,P,75,225,20.9,,,Haniger, Mitch,571745,136,SEA,OF,31,200,4.54,27.2
+Ryan_Feierabend,SEA,P,75,190,21.52,,,Rogers, Jake,668670,116,DET,C,26,24,,27.2
+Sean_White,SEA,P,76,195,25.85,,,Bradley Jr., Jackie,598265,158,MIL,OF,31,132,4.42,27.2
+Horacio_Ramirez,SEA,P,73,219,27.27,,,Alcántara, Sergio,642727,112,CHC,SS,25,66,4.54,27.2
+Cha_Baek,SEA,P,76,190,26.75,,,Maton, Nick,665155,143,PHI,SS,24,36,4.42,27.2
+Miguel_Batista,SEA,P,73,197,36.03,,,Rosario, Eddie,592696,144,ATL,OF,30,141,4.33,27.2
+Jeff_Weaver,SEA,P,77,200,30.52,,,Kelenic, Jarred,672284,136,SEA,OF,22,107,4.45,27.2
+Jarrod_Washburn,SEA,P,73,195,32.55,,,Frazier, Clint,640449,147,NYY,OF,27,58,4.62,27.1
+George_Sherrill,SEA,P,72,210,29.86,,,García, Robel,596825,117,HOU,3B,28,28,4.37,27.1
+Julio_Mateo,SEA,P,72,177,29.58,,,Díaz, Aledmys,649557,117,HOU,3B,31,111,4.37,27.1
+J.J._Putz,SEA,P,77,220,30.02,,,Betts, Mookie,605141,119,LAD,OF,29,173,4.46,27.1
+Chris_Reitsma,SEA,P,77,235,29.16,,,Beaty, Matt,607461,119,LAD,OF,28,81,4.47,27.1
+Cesar_Jimenez,SEA,P,71,180,22.3,,,Frazier, Adam,624428,135,SD,2B,30,223,4.42,27.1
+Eric_O'Flaherty,SEA,P,74,195,22.06,,,Conforto, Michael,624424,121,NYM,OF,28,139,4.52,27
+Jon_Huber,SEA,P,74,195,25.65,,,Wilkerson, Stevie,592859,110,BAL,2B,29,27,,27
+Jake_Woods,SEA,P,73,190,25.49,,,Neuse, Sheldon,641914,119,LAD,2B,27,19,,27
+Sean_Green,SEA,P,78,230,27.86,,,Soto, Juan,665742,120,WSH,OF,23,225,4.33,27
+Mark_Lowe,SEA,P,75,190,23.73,,,Mejía, Francisco,642336,139,TB,C,26,92,4.36,27
+Josh_Paul,TB,C,73,200,31.78,,,Schoop, Jonathan,570731,116,DET,1B,30,242,4.59,27
+Dioner_Navarro,TB,C,70,190,23.06,,,Verdugo, Alex,657077,111,BOS,OF,25,249,4.32,27
+Shawn_Riggans,TB,C,74,190,26.6,,,Walsh, Jared,665120,108,LAA,1B,28,189,4.43,27
+Ty_Wigginton,TB,1B,72,200,29.39,,,Vargas, Ildemaro,545121,109,ARI,3B,30,36,4.64,27
+Brendan_Harris,TB,2B,73,200,26.51,,,Gurriel, Yuli,493329,117,HOU,1B,37,238,4.42,27
+Jorge_Cantu,TB,2B,73,184,25.08,,,Trejo, Alan,676701,115,COL,2B,25,15,,27
+Ben_Zobrist,TB,SS,75,200,25.76,,,García, Luis,671277,120,WSH,2B,21,116,4.34,27
+B.J._Upton,TB,3B,75,180,22.52,,,Anderson, Brian,605119,146,MIA,3B,28,84,4.48,27
+Carl_Crawford,TB,OF,74,219,25.57,,,Williams, Justin,642211,138,STL,OF,26,28,4.69,27
+Rocco_Baldelli,TB,OF,76,187,25.43,,,Raleigh, Cal,663728,136,SEA,C,25,43,4.5,27
+Greg_Norton,TB,OF,73,200,34.65,,,Bradley, Bobby,656252,114,CLE,1B,25,73,4.47,27
+Elijah_Dukes,TB,OF,74,220,22.68,,,Torres, Gleyber,650402,147,NYY,SS,25,160,4.51,27
+Delmon_Young,TB,OF,75,205,21.46,,,Araúz, Jonathan,660620,111,BOS,SS,23,27,,27
+Jonny_Gomes,TB,DH,73,205,26.27,,,Farmer, Kyle,571657,113,CIN,SS,31,162,4.51,27
+Edwin_Jackson,TB,P,75,190,23.47,,,Joe, Connor,656582,115,COL,OF,29,63,4.53,27
+Scott_Kazmir,TB,P,72,170,23.1,,,Walton, Donovan,622268,136,SEA,2B,27,25,,27
+Casey_Fossum,TB,P,73,160,29.14,,,Freeman, Freddie,518692,144,ATL,1B,32,240,4.43,27
+Jae_Seo,TB,P,73,215,29.77,,,Murphy, Tom,608596,136,SEA,C,30,72,4.61,27
+J.P._Howell,TB,P,72,175,23.85,,,Núñez, Renato,600524,116,DET,1B,27,17,,27
+Tim_Corcoran,TB,P,74,205,28.88,,,McNeil, Jeff,643446,121,NYM,2B,29,138,4.17,27
+Jason_Hammel,TB,P,78,200,24.49,,,Contreras, William,661388,144,ATL,C,24,52,4.53,27
+James_Shields,TB,P,76,214,25.19,,,Valaika, Pat,642162,110,BAL,2B,29,58,4.51,27
+Brian_Stokes,TB,P,73,200,27.48,,,Urías, Ramón,602104,110,BAL,SS,27,97,4.54,27
+Juan_Salas,TB,P,74,190,28.31,,,Ellis, Drew,656403,109,ARI,3B,26,14,,27
+Jeff_Ridgway,TB,P,75,180,26.54,,,Correa, Carlos,621043,117,HOU,SS,27,226,4.53,26.9
+Ruddy_Lugo,TB,P,70,205,26.77,,,Valera, Breyvic,591971,141,TOR,3B,29,31,,26.9
+Jae-Kuk_Ryu,TB,P,75,220,23.75,,,Hicks, Aaron,543305,147,NYY,OF,32,27,4.47,26.9
+Chad_Orvella,TB,P,71,190,26.41,,,Barnes, Austin,605131,119,LAD,C,32,62,4.57,26.9
+Dan_Miceli,TB,P,72,215,36.47,,,Jackson, Alex,656577,146,MIA,C,26,28,,26.9
+Seth_McClung,TB,P,78,235,26.06,,,Torreyes, Ronald,591720,143,PHI,3B,29,130,4.45,26.9
+Jon_Switzer,TB,P,75,191,27.55,,,Davis, J.D.,605204,121,NYM,3B,28,54,4.61,26.9
+Shawn_Camp,TB,P,73,200,31.28,,,Soler, Jorge,624585,144,ATL,OF,29,168,4.67,26.9
+Scott_Dohmann,TB,P,73,181,29.04,,,VanMeter, Josh,642165,109,ARI,2B,26,75,4.4,26.9
+Jason_LaRue,KC,C,71,200,32.95,,,Pederson, Joc,592626,144,ATL,OF,29,135,4.38,26.9
+John_Buck,KC,C,75,210,26.65,,,Stephenson, Tyler,663886,113,CIN,C,25,149,4.58,26.9
+Ryan_Shealy,KC,1B,77,240,27.5,,,Adrianza, Ehire,501303,144,ATL,,32,70,4.43,26.9
+Ross_Gload,KC,1B,72,185,30.9,,,Arcia, Orlando,606115,144,ATL,OF,27,36,4.61,26.8
+Esteban_German,KC,2B,69,165,29.09,,,Devers, Rafael,646240,111,BOS,3B,25,198,4.38,26.8
+Mark_Grudzielanek,KC,2B,73,190,36.67,,,Hernandez, Yonny,660634,140,TEX,3B,23,63,4.52,26.8
+Angel_Sanchez,KC,2B,74,185,23.44,,,Inciarte, Ender,542255,144,ATL,OF,31,29,4.23,26.8
+Angel_Berroa,KC,SS,72,175,29.09,,,Alberto, Hanser,593643,118,KC,3B,29,91,4.45,26.8
+Andres_Blanco,KC,SS,70,155,22.89,,,Gonzalez, Marwin,503556,117,HOU,2B,32,102,4.5,26.8
+Mark_Teahen,KC,3B,75,210,25.48,,,Arraez, Luis,650333,142,MIN,3B,24,173,4.42,26.8
+Joey_Gathright,KC,OF,70,170,25.84,,,Torrens, Luis,620443,136,SEA,DH,25,128,4.61,26.8
+David_DeJesus,KC,OF,72,175,27.2,,,Schwarber, Kyle,656941,111,BOS,OF,28,131,4.43,26.8
+Shane_Costa,KC,OF,72,220,25.22,,,Guerrero Jr., Vladimir,665489,141,TOR,1B,22,218,4.62,26.8
+Mitch_Maier,KC,OF,74,210,24.67,,,Heyward, Jason,518792,112,CHC,OF,32,132,4.46,26.8
+Reggie_Sanders,KC,OF,73,205,39.25,,,Garlick, Kyle,664247,142,MIN,OF,29,30,4.67,26.8
+Emil_Brown,KC,OF,74,200,32.17,,,Bemboom, Anthony,621532,108,LAA,C,31,10,,26.8
+Mike_Sweeney,KC,DH,75,225,33.61,,,Rodgers, Brendan,663898,115,COL,2B,25,160,4.49,26.8
+John_Bale,KC,P,76,205,32.77,,,Marte, Ketel,606466,109,ARI,OF,28,138,4.52,26.7
+Luke_Hudson,KC,P,75,195,29.83,,,Harrison, Josh,543281,133,OAK,2B,34,190,4.46,26.7
+Scott_Elarton,KC,P,80,240,31.02,,,Rortvedt, Ben,666163,142,MIN,C,24,26,4.55,26.7
+Odalis_Perez,KC,P,72,150,29.73,,,Williams, Mason,592863,121,NYM,OF,30,14,,26.7
+Gil_Meche,KC,P,75,200,28.48,,,Suárez, Eugenio,553993,113,CIN,3B,30,139,4.63,26.7
+Neal_Musser,KC,P,73,215,26.51,,,Dickerson, Alex,543105,137,SF,OF,31,81,4.54,26.7
+Brian_Bannister,KC,P,74,202,26,,,Stewart, DJ,621466,110,BAL,OF,28,73,4.48,26.7
+Zack_Greinke,KC,P,74,200,23.36,,,Wong, Kolten,543939,158,MIL,2B,31,168,4.39,26.7
+Jorge_De_La_Rosa,KC,P,73,190,25.9,,,Andrus, Elvis,462101,133,OAK,SS,33,207,4.53,26.7
+Todd_Wellemeyer,KC,P,75,205,28.5,,,McCann, James,543510,121,NYM,C,31,132,4.71,26.7
+Jimmy_Gobble,KC,P,75,190,25.62,,,Muncy, Max,571970,119,LAD,1B,31,144,4.44,26.7
+Joel_Peralta,KC,P,71,160,30.94,,,Odor, Rougned,596059,147,NYY,2B,27,88,4.47,26.7
+Ryan_Braun,KC,P,73,215,26.59,,,Sheets, Gavin,657757,145,CWS,DH,25,63,4.49,26.7
+Joakim_Soria,KC,P,75,185,22.78,,,Kemp, Tony,643393,133,OAK,2B,30,108,4.42,26.6
+Ken_Ray,KC,P,74,200,32.26,,,Gurriel Jr., Lourdes,666971,141,TOR,OF,28,191,4.53,26.6
+David_Riske,KC,P,74,190,30.35,,,Zimmerman, Ryan,475582,120,WSH,1B,37,95,4.52,26.6
+Octavio_Dotel,KC,P,72,210,33.26,,,Pinder, Chad,640461,133,OAK,OF,29,86,4.59,26.6
+Joe_Nelson,KC,P,74,185,32.35,,,Mendick, Danny,664901,145,CWS,SS,28,54,4.56,26.6
+Gerald_Laird,TEX,C,74,220,27.3,,,Rojas, Miguel,500743,146,MIA,SS,32,207,4.56,26.6
+Miguel_Ojeda,TEX,C,74,190,32.08,,,Castro, Jason,488771,117,HOU,C,34,44,4.52,26.6
+Guillermo_Quiroz,TEX,C,73,202,25.25,,,Mancini, Trey,641820,110,BAL,1B,29,218,4.65,26.6
+Chris_Stewart,TEX,C,76,205,25.03,,,Ozuna, Marcell,542303,144,ATL,OF,31,45,4.55,26.5
+Mark_Teixeira,TEX,1B,75,220,26.89,,,Robertson, Daniel,621002,158,MIL,SS,27,24,4.75,26.5
+Ian_Kinsler,TEX,2B,72,175,24.69,,,Urías, Luis,649966,158,MIL,3B,24,203,4.63,26.5
+Joaquin_Arias,TEX,SS,73,160,22.44,,,Long Jr., Shed,643418,136,SEA,OF,26,42,4.43,26.5
+Michael_Young,TEX,SS,73,190,30.36,,,LeMahieu, DJ,518934,147,NYY,2B,33,252,4.63,26.5
+Hank_Blalock,TEX,3B,73,200,26.27,,,Mercer, Jordy,474568,120,WSH,2B,35,39,4.53,26.5
+Marlon_Byrd,TEX,OF,72,229,29.5,,,Díaz, Yandy,650490,139,TB,1B,30,218,4.59,26.5
+Brad_Wilkerson,TEX,OF,72,206,29.75,,,Sanó, Miguel,593934,142,MIN,1B,28,103,4.76,26.5
+Sammy_Sosa,TEX,OF,72,220,38.3,,,Seager, Corey,608369,119,LAD,SS,27,158,4.6,26.5
+Kenny_Lofton,TEX,OF,72,180,39.75,,,Abreu, José,547989,145,CWS,1B,34,219,4.62,26.5
+Frank_Catalanotto,TEX,OF,71,195,32.84,,,Greiner, Grayson,606988,116,DET,C,29,21,4.69,26.5
+Nelson_Cruz,TEX,OF,75,175,26.66,,,Wade Jr., LaMonte,664774,137,SF,OF,27,81,4.64,26.5
+Jason_Botts,TEX,DH,77,250,26.6,,,Smith, Pavin,656976,109,ARI,1B,25,199,4.49,26.5
+Robinson_Tejeda,TEX,P,75,188,24.94,,,Larnach, Trevor,663616,142,MIN,OF,24,79,4.61,26.5
+John_Rheinecker,TEX,P,74,230,27.76,,,Hoskins, Rhys,656555,143,PHI,1B,28,102,4.64,26.4
+Edinson_Volquez,TEX,P,73,190,23.66,,,Vosler, Jason,613564,137,SF,3B,28,25,4.59,26.4
+A.J._Murray,TEX,P,75,200,24.96,,,Paredes, Isaac,670623,116,DET,2B,22,25,4.75,26.4
+Brandon_McCarthy,TEX,P,79,190,23.65,,,Vaughn, Andrew,683734,145,CWS,OF,23,153,4.66,26.4
+Vicente_Padilla,TEX,P,74,219,29.42,,,Mercedes, Yermín,606213,145,CWS,DH,28,86,4.6,26.4
+Kevin_Millwood,TEX,P,76,235,32.18,,,Duffy, Matt,622110,112,CHC,3B,30,123,4.66,26.4
+John_Koronka,TEX,P,73,180,26.66,,,Mazara, Nomar,608577,116,DET,OF,26,62,4.53,26.4
+Frank_Francisco,TEX,P,74,180,27.47,,,Leyba, Domingo,642736,110,BAL,2B,26,26,,26.4
+Francisco_Cruceta,TEX,P,74,180,25.66,,,Drury, Brandon,592273,121,NYM,,29,34,4.61,26.4
+Akinori_Otsuka,TEX,P,72,200,35.13,,,Stassi, Max,545358,108,LAA,C,30,88,4.74,26.4
+Eric_Gagne,TEX,P,74,234,31.15,,,d'Arnaud, Travis,518595,144,ATL,C,32,91,4.71,26.3
+Ron_Mahay,TEX,P,74,185,35.67,,,Machado, Manny,592518,135,SD,3B,29,179,4.52,26.4
+Joaquin_Benoit,TEX,P,75,220,29.6,,,McGuire, Reese,624512,141,TOR,C,26,67,4.54,26.3
+Rick_Bauer,TEX,P,78,223,30.14,,,Ríos, Edwin,621458,119,LAD,3B,27,16,4.5,26.3
+Josh_Rupe,TEX,P,74,200,24.53,,,Garneau, Dustin,572863,116,DET,C,34,23,4.62,26.3
+Wes_Littleton,TEX,P,74,210,24.49,,,Ramos, Henry,592656,109,ARI,OF,29,22,,26.3
+C.J._Wilson,TEX,P,74,200,26.28,,,Reddick, Josh,502210,109,ARI,OF,34,53,4.54,26.3
+Scott_Feldman,TEX,P,77,210,24.06,,,Rivas, AOFonso,663845,112,CHC,OF,25,14,,26.3
+Gregg_Zaun,TOR,C,70,190,35.88,,,Adams, Riley,656180,120,WSH,C,25,38,4.65,26.3
+Jason_Phillips,TOR,C,73,177,30.42,,,Gomes, Yan,543228,133,OAK,C,34,106,4.72,26.3
+Lyle_Overbay,TOR,1B,74,227,30.09,,,Alvarez, Yordan,670541,117,HOU,DH,24,181,4.51,26.3
+Russ_Adams,TOR,2B,73,180,26.5,,,Jones, Taylor,622100,117,HOU,1B,28,41,4.76,26.3
+Aaron_Hill,TOR,2B,71,195,24.94,,,Profar, Jurickson,595777,135,SD,OF,28,137,4.51,26.3
+Jason_Smith,TOR,2B,75,199,29.6,,,McMahon, Ryan,641857,115,COL,3B,27,171,4.58,26.2
+John_McDonald,TOR,SS,71,175,32.43,,,Goldschmidt, Paul,502671,138,STL,1B,34,188,4.59,26.2
+Royce_Clayton,TOR,SS,72,185,37.16,,,Joyce, Matt,459964,143,PHI,,37,19,,26.2
+Troy_Glaus,TOR,3B,77,240,30.57,,,Bell, Josh,605137,120,WSH,1B,29,214,4.66,26.2
+John_Hattig,TOR,3B,74,210,27.01,,,Smith, Dominic,642086,121,NYM,OF,26,123,4.47,26.2
+Reed_Johnson,TOR,OF,70,180,30.23,,,Naylor, Josh,647304,114,CLE,OF,24,102,4.6,26.2
+Alex_Rios,TOR,OF,77,194,26.03,,,Vogt, Stephen,519390,144,ATL,C,37,42,4.5,26.2
+Vernon_Wells,TOR,OF,73,225,28.23,,,Simmons, Andrelton,592743,142,MIN,SS,32,200,4.68,26.2
+Frank_Thomas,TOR,DH,77,275,38.76,,,Panik, Joe,605412,146,MIA,3B,31,95,4.53,26.2
+Adam_Lind,TOR,DH,74,195,23.62,,,Tsutsugo, Yoshi,660294,134,PIT,OF,30,70,4.56,26.2
+Shaun_Marcum,TOR,P,72,180,25.21,,,Castro, Harold,605612,116,DET,SS,28,105,4.57,26.2
+Casey_Janssen,TOR,P,76,205,25.45,,,Schwindel, Frank,643524,112,CHC,1B,29,90,4.54,26.2
+Gustavo_Chacin,TOR,P,71,193,26.24,,,Longoria, Evan,446334,137,SF,3B,36,84,4.7,26.1
+A.J._Burnett,TOR,P,76,230,30.15,,,Calhoun, Willie,641432,140,TEX,OF,27,83,4.63,26.1
+Roy_Halladay,TOR,P,78,230,29.8,,,Santander, Anthony,623993,110,BAL,OF,27,110,4.69,26.1
+John_Thomson,TOR,P,75,220,33.41,,,Holt, Brock,571788,140,TEX,3B,33,88,4.48,26.1
+Tomo_Ohka,TOR,P,73,200,30.95,,,Reyes, Franmil,614177,114,CLE,DH,26,120,4.76,26.1
+B.J._Ryan,TOR,P,78,249,31.17,,,Castro, Starlin,516770,120,WSH,3B,31,124,4.61,26.1
+Scott_Downs,TOR,P,74,190,30.95,,,Martinez, J.D.,502110,111,BOS,DH,34,186,4.68,26.1
+Brian_Tallet,TOR,P,79,208,29.44,,,Cooper, Garrett,643265,146,MIA,OF,31,78,4.63,26.1
+Matt_Roney,TOR,P,75,245,27.14,,,Solano, Donovan,456781,137,SF,2B,34,122,4.57,26.1
+Tracy_Thorpe,TOR,P,76,250,26.21,,,Lopez, Alejo,664670,113,CIN,,25,11,,26.1
+Jean_Machi,TOR,P,72,160,24.08,,,Perez, Salvador,521692,118,KC,C,31,154,4.73,26.1
+Brandon_League,TOR,P,75,192,23.96,,,Lamb, Jake,571875,141,TOR,3B,31,40,4.63,26
+Dustin_McGowan,TOR,P,75,220,24.94,,,Nola, Austin,543592,135,SD,C,32,70,4.73,26
+Jason_Frasor,TOR,P,70,170,29.56,,,Parra, Gerardo,467827,120,WSH,OF,34,30,,26
+Francisco_Rosario,TOR,P,72,197,26.42,,,Alonso, Pete,624413,121,NYM,1B,27,176,4.59,26
+Davis_Romero,TOR,P,70,155,23.92,,,Hosmer, Eric,543333,135,SD,1B,32,195,4.53,26
+Jeremy_Accardo,TOR,P,74,190,25.23,,,Zunino, Mike,572287,139,TB,C,30,79,4.74,26
+Mike_Redmond,MIN,C,71,200,35.82,,,Rivera, René,425784,120,WSH,C,38,17,4.78,26
+Joe_Mauer,MIN,C,76,220,23.87,,,Craig, Will,643269,134,PIT,1B,27,22,4.75,26
+Chris_Heintz,MIN,C,73,210,32.57,,,Cruz, Nelson,443558,139,TB,DH,41,165,4.69,26
+Justin_Morneau,MIN,1B,76,228,25.79,,,Heim, Jonah,641680,140,TEX,C,26,86,4.73,26
+Luis_Castillo,MIN,2B,71,190,31.47,,,Severino, Pedro,600474,110,BAL,C,28,124,4.57,25.9
+Alexi_Casilla,MIN,2B,69,160,22.61,,,Cron, C.J.,543068,115,COL,1B,31,148,4.71,25.9
+Alejandro_Machado,MIN,2B,72,184,24.85,,,Guillorme, Luis,641645,121,NYM,3B,27,60,4.47,25.9
+Jason_Bartlett,MIN,SS,72,180,27.33,,,Maile, Luke,571912,158,MIL,C,30,21,,25.9
+Luis_Rodriguez,MIN,3B,69,180,26.67,,,Ruf, Darin,573131,137,SF,1B,35,85,4.7,25.9
+Jeff_Cirillo,MIN,3B,73,200,37.43,,,Olson, Matt,621566,133,OAK,1B,27,190,4.65,25.9
+Nick_Punto,MIN,3B,69,176,29.31,,,Garcia, Aramis,605244,133,OAK,C,28,32,4.79,25.8
+Jason_Tyner,MIN,OF,73,160,29.85,,,Winker, Jesse,608385,113,CIN,OF,28,159,4.67,25.8
+Michael_Cuddyer,MIN,OF,74,222,27.93,,,Campusano, Luis,669134,135,SD,C,23,10,,25.8
+Torii_Hunter,MIN,OF,74,211,31.62,,,Díaz, Elias,553869,115,COL,C,31,121,4.75,25.8
+Lew_Ford,MIN,OF,72,195,30.55,,,Díaz, Isan,656371,146,MIA,2B,25,75,4.69,25.8
+Jason_Kubel,MIN,OF,71,200,24.77,,,Murphy, Sean,669221,133,OAK,C,27,125,4.69,25.8
+Josh_Rabe,MIN,DH,74,210,28.38,,,Galvis, Freddy,520471,143,PHI,SS,32,114,4.54,25.8
+Rondell_White,MIN,DH,73,225,35.02,,,Piscotty, Stephen,572039,133,OAK,OF,30,53,4.68,25.8
+Ramon_Ortiz,MIN,P,72,175,33.77,,,Sanchez, Adrián,506703,120,WSH,2B,31,16,4.68,25.8
+Johan_Santana,MIN,P,72,206,27.97,,,Mazeika, Patrick,664850,121,NYM,C,28,27,4.45,25.8
+Carlos_Silva,MIN,P,76,240,27.85,,,Jeffers, Ryan,680777,142,MIN,C,24,73,4.75,25.8
+Matt_Garza,MIN,P,76,185,23.26,,,Crawford, Brandon,543063,137,SF,SS,34,178,4.48,25.8
+Boof_Bonser,MIN,P,76,260,25.38,,,Carpenter, Matt,572761,138,STL,2B,36,45,4.54,25.7
+Francisco_Liriano,MIN,P,74,185,23.35,,,Zavala, Seby,664874,145,CWS,C,28,25,,25.7
+Scott_Baker,MIN,P,76,221,25.45,,,Marmolejos, José,592530,136,SEA,1B,28,25,4.65,25.7
+Pat_Neshek,MIN,P,75,205,26.49,,,Brantley, Michael,488726,117,HOU,OF,34,222,4.65,25.7
+Glen_Perkins,MIN,P,71,200,24,,,Ruiz, Rio,547004,115,COL,2B,27,44,4.76,25.7
+Julio_DePaula,MIN,P,72,170,24.16,,,Urshela, Gio,570482,147,NYY,3B,30,164,4.54,25.7
+Juan_Rincon,MIN,P,71,201,28.1,,,Knizner, Andrew,668800,138,STL,C,26,63,4.76,25.7
+Jesse_Crain,MIN,P,73,205,25.65,,,Wilson, Jacob,607111,117,HOU,3B,31,13,,25.7
+Matt_Guerrier,MIN,P,75,185,28.58,,,Godoy, José,608422,136,SEA,C,27,12,,25.7
+Joe_Nathan,MIN,P,76,205,32.27,,,Davis, Khris,501981,133,OAK,DH,34,31,4.95,25.6
+Dennys_Reyes,MIN,P,75,245,29.86,,,Bregman, Alex,608324,117,HOU,3B,27,148,4.68,25.6
+Brayan_Pe?a,ATL,C,71,220,25.14,,,Belt, Brandon,474832,137,SF,1B,33,71,4.61,25.6
+Brian_McCann,ATL,C,75,210,23.03,,,Garver, Mitch,641598,142,MIN,C,30,53,4.69,25.6
+Craig_Wilson,ATL,1B,74,220,30.25,,,Ruiz, Keibert,660688,120,WSH,C,23,29,4.64,25.6
+Chris_Woodward,ATL,2B,72,185,30.67,,,Kelly, Carson,608348,109,ARI,C,27,80,4.8,25.6
+Pete_Orr,ATL,2B,73,175,27.73,,,Nido, Tomás,621512,121,NYM,C,27,41,4.81,25.6
+Martin_Prado,ATL,2B,73,170,23.34,,,Sogard, Eric,519299,112,CHC,2B,35,65,4.48,25.6
+Tony_Pe?a,ATL,SS,73,180,25.94,,,Seager, Kyle,572122,136,SEA,3B,34,159,4.62,25.5
+Edgar_Renteria,ATL,SS,73,200,31.56,,,Díaz, Lewin,650331,146,MIA,1B,25,29,,25.5
+Chipper_Jones,ATL,3B,76,210,34.85,,,Turner, Justin,457759,119,LAD,3B,37,151,4.78,25.5
+Willy_Aybar,ATL,3B,72,175,23.98,,,Rivas, Webster,593590,135,SD,C,31,24,4.79,25.4
+Jeff_Francoeur,ATL,OF,76,220,23.14,,,Smith, Kevan,607345,144,ATL,C,33,31,4.82,25.4
+Matt_Diaz,ATL,OF,73,206,28.99,,,Higashioka, Kyle,543309,147,NYY,C,31,50,4.71,25.4
+Kelly_Johnson,ATL,OF,73,180,25.02,,,Arenado, Nolan,571448,138,STL,3B,30,184,4.77,25.4
+Andruw_Jones,ATL,OF,73,210,29.85,,,Plawecki, Kevin,608700,111,BOS,C,30,67,4.71,25.4
+Ryan_Langerhans,ATL,OF,75,195,27.03,,,Choi, Ji-Man,596847,139,TB,1B,30,70,4.55,25.4
+Scott_Thorman,ATL,OF,75,200,25.15,,,Hernandez, Yadiel,628450,120,WSH,OF,34,107,4.64,25.3
+T.J._Bohn,ATL,OF,77,200,27.12,,,France, Ty,664034,136,SEA,1B,27,215,4.78,25.3
+Tim_Hudson,ATL,P,73,164,31.63,,,Adams, Matt,571431,115,COL,1B,33,14,4.71,25.3
+Jonathan_Johnson,ATL,P,72,180,32.62,,,Sánchez, Gary,596142,147,NYY,C,29,97,4.75,25.3
+John_Smoltz,ATL,P,75,220,39.79,,,Nuñez, Dom,624513,115,COL,C,26,60,4.72,25.3
+Mike_Hampton,ATL,P,70,195,34.47,,,Gittens, Chris,656467,147,NYY,1B,27,13,,25.3
+Kyle_Davies,ATL,P,74,205,23.47,,,Rendon, Anthony,543685,108,LAA,3B,31,57,4.82,25.2
+Chuck_James,ATL,P,72,170,25.31,,,Moustakas, Mike,519058,113,CIN,3B,33,55,,25.2
+Phil_Stockman,ATL,P,80,240,27.1,,,Lowrie, Jed,476704,133,OAK,2B,37,135,4.7,25.2
+Macay_McBride,ATL,P,71,210,24.35,,,Narváez, Omar,553882,158,MIL,C,29,125,4.78,25.2
+Joey_Devine,ATL,P,71,195,23.45,,,Vázquez, Christian,543877,111,BOS,C,31,170,4.71,25.2
+Peter_Moylan,ATL,P,74,200,28.24,,,Collins, Zack,641470,145,CWS,C,26,49,4.71,25.2
+Mike_Gonzalez,ATL,P,74,205,28.77,,,Rizzo, Anthony,519203,147,NYY,1B,32,166,4.66,25.2
+Lance_Cormier,ATL,P,73,192,26.53,,,Votto, Joey,458015,113,CIN,1B,38,117,4.77,25.1
+Blaine_Boyer,ATL,P,75,190,25.64,,,Nogowski, John,596056,134,PIT,1B,28,42,4.75,25.1
+Manny_Acosta,ATL,P,76,170,25.83,,,Perez, Michael,605421,134,PIT,C,29,61,4.75,25.1
+Bob_Wickman,ATL,P,73,240,38.06,,,Wynns, Austin,642851,110,BAL,C,31,45,4.89,25.1
+Tanyon_Sturtze,ATL,P,77,200,36.38,,,Tellez, Rowdy,642133,158,MIL,1B,26,90,4.77,25.1
+Oscar_Villarreal,ATL,P,72,205,25.27,,,Pozo, Yohel,650968,140,TEX,DH,24,25,4.82,25.1
+Rafael_Soriano,ATL,P,73,175,27.2,,,Piña, Manny,444489,158,MIL,C,34,49,4.93,25.1
+Chad_Paronto,ATL,P,77,250,31.59,,,Shaw, Travis,543768,111,BOS,3B,31,57,4.72,25.1
+Tyler_Yates,ATL,P,76,220,29.56,,,Blandino, Alex,607468,113,CIN,1B,29,23,4.9,25
+Henry_Blanco,CHC,C,71,224,35.5,,,Franco, Maikel,596748,110,BAL,3B,29,162,4.84,25
+Michael_Barrett,CHC,C,75,210,30.35,,,Santana, Carlos,467793,118,KC,1B,35,190,4.7,24.9
+Geovany_Soto,CHC,C,73,195,24.11,,,Sisco, Chance,642082,121,NYM,C,26,26,,24.9
+Scott_Moore,CHC,1B,74,180,23.29,,,Caratini, Victor,605170,135,SD,C,28,105,4.75,24.9
+Derrek_Lee,CHC,1B,77,245,31.48,,,Voit, Luke,572228,147,NYY,1B,30,48,4.9,24.9
+Ryan_Theriot,CHC,2B,71,175,27.23,,,Romine, Austin,519222,112,CHC,C,33,19,4.77,24.9
+Ronny_Cedeno,CHC,SS,72,180,24.07,,,Cabrera, Asdrúbal,452678,113,CIN,3B,36,98,4.79,24.9
+Aramis_Ramirez,CHC,3B,73,215,28.68,,,La Stella, Tommy,600303,137,SF,2B,32,75,4.64,24.9
+Cesar_Izturis,CHC,3B,69,175,27.05,,,Casali, Curt,592200,137,SF,C,33,45,4.89,24.9
+AOFonso_Soriano,CHC,OF,73,180,31.15,,,Rivero, Sebastian,665861,118,KC,C,23,16,,24.8
+Jacque_Jones,CHC,OF,70,195,31.85,,,Chirinos, Robinson,455139,112,CHC,C,37,23,,24.8
+Daryle_Ward,CHC,OF,74,230,31.68,,,Barrera, Tres,668663,120,WSH,C,27,31,4.9,24.7
+Cliff_Floyd,CHC,OF,76,230,34.23,,,Kirk, Alejandro,672386,141,TOR,C,23,57,4.91,24.7
+Mark_DeRosa,CHC,OF,73,205,32.01,,,Pérez, Roberto,547379,114,CLE,C,33,31,4.76,24.7
+Matt_Murton,CHC,OF,73,215,25.41,,,Stanton, Giancarlo,519317,147,NYY,DH,32,144,4.96,24.7
+Buck_Coats,CHC,OF,75,195,24.73,,,Calhoun, Kole,594777,109,ARI,OF,34,50,4.74,24.7
+Angel_Pagan,CHC,OF,73,180,25.66,,,Gallagher, Cam,595956,118,KC,C,29,36,4.86,24.7
+Sean_Marshall,CHC,P,79,205,24.5,,,Lavarnway, Ryan,543432,114,CLE,C,34,10,,24.6
+Carlos_Marmol,CHC,P,74,180,24.38,,,Suzuki, Kurt,435559,108,LAA,C,38,71,4.92,24.6
+Ryan_O'Malley,CHC,P,73,190,26.89,,,Flores, Wilmer,527038,137,SF,3B,30,136,4.78,24.6
+Juan_Mateo,CHC,P,74,180,24.2,,,Donaldson, Josh,518626,142,MIN,3B,36,161,4.83,24.5
+Rich_Hill,CHC,P,77,190,26.97,,,Trevino, Jose,624431,140,TEX,C,29,109,4.86,24.5
+Angel_Guzman,CHC,P,75,190,25.21,,,Hedges, Austin,595978,114,CLE,C,29,73,4.97,24.5
+Wade_Miller,CHC,P,74,220,30.46,,,Moreland, Mitch,519048,133,OAK,DH,36,77,4.69,24.4
+Jason_Marquis,CHC,P,73,210,28.53,,,Aguilar, Jesús,542583,146,MIA,1B,31,125,4.83,24.3
+Carlos_Zambrano,CHC,P,77,255,25.75,,,Barnhart, Tucker,571466,113,CIN,C,30,103,4.84,24.3
+Ted_Lilly,CHC,P,73,190,31.15,,,Vogelbach, Daniel,596129,158,MIL,1B,29,77,4.82,24.3
+Mark_Prior,CHC,P,77,230,26.48,,,Frazier, Todd,453943,134,PIT,1B,35,17,4.8,24.2
+Neal_Cotts,CHC,P,74,200,26.93,,,Astudillo, Willians,553902,142,MIN,3B,30,83,4.97,24.2
+Will_Ohman,CHC,P,74,205,29.55,,,Avila, Alex,488671,120,WSH,C,34,32,,24.2
+Scott_Eyre,CHC,P,73,210,34.75,,,Posey, Buster,457763,137,SF,C,34,153,4.84,24.2
+Kerry_Wood,CHC,P,77,225,29.71,,,Wallach, Chad,595453,146,MIA,C,30,17,,24.1
+Ryan_Dempster,CHC,P,74,215,29.83,,,Stallings, Jacob,607732,134,PIT,C,32,138,4.89,24.1
+Bob_Howry,CHC,P,77,220,33.57,,,Cabrera, Miguel,408234,116,DET,DH,38,160,5.01,23.9
+Mike_Wuertz,CHC,P,75,205,28.21,,,Moran, Colin,592567,134,PIT,1B,29,107,4.83,23.9
+Roberto_Novoa,CHC,P,77,200,27.54,,,León, Sandy,506702,146,MIA,C,32,44,4.88,23.7
+Chris_Snyder,ARZ,C,75,220,26.05,,,Ramos, Wilson,467092,114,CLE,C,34,48,5.03,23.7
+Miguel_Montero,ARZ,C,71,197,23.64,,,Maldonado, Martín,455117,117,HOU,C,35,93,5.04,23.5
+Conor_Jackson,ARZ,1B,74,225,24.82,,,Grandal, Yasmani,518735,145,CWS,C,33,84,5.08,23.5
+Robby_Hammock,ARZ,1B,70,187,29.8,,,Ford, Mike,645801,147,NYY,1B,29,12,,23.1
+Tony_Clark,ARZ,1B,79,245,34.71,,,Sandoval, Pablo,467055,144,ATL,,35,15,,22.7
+Orlando_Hudson,ARZ,2B,72,185,29.22,,,Molina, Yadier,425877,138,STL,C,39,132,4.92,22.6
+Stephen_Drew,ARZ,SS,72,185,23.96,,,Pujols, Albert,405395,119,LAD,1B,41,85,5.15,22.4
+Alberto_Callaspo,ARZ,SS,70,175,23.87,,,,,,,,,,,,
+Chad_Tracy,ARZ,3B,74,200,26.77,,,,,,,,,,,,
+Chris_Young,ARZ,OF,74,180,23.49,,,,,,,,,,,,
+Scott_Hairston,ARZ,OF,72,188,26.77,,,,,,,,,,,,
+Carlos_Quentin,ARZ,OF,73,225,24.51,,,,,,,,,,,,
+Jeff_DaVanon,ARZ,OF,72,200,33.23,,,,,,,,,,,,
+Eric_Byrnes,ARZ,OF,74,210,31.04,,,,,,,,,,,,
+Livan_Hernandez,ARZ,P,74,245,32.02,,,,,,,,,,,,
+Doug_Davis,ARZ,P,76,213,31.44,,,,,,,,,,,,
+Randy_Johnson,ARZ,P,82,231,43.47,,,,,,,,,,,,
+Juan_Cruz,ARZ,P,74,165,28.38,,,,,,,,,,,,
+Brandon_Webb,ARZ,P,74,228,27.81,,,,,,,,,,,,
+Enrique_Gonzalez,ARZ,P,70,210,24.57,,,,,,,,,,,,
+Dana_Eveland,ARZ,P,73,250,23.34,,,,,,,,,,,,
+Brandon_Medders,ARZ,P,73,191,27.09,,,,,,,,,,,,
+Tony_Pe?a,ARZ,P,74,190,25.14,,,,,,,,,,,,
+Doug_Slaten,ARZ,P,77,200,27.07,,,,,,,,,,,,
+Edgar_Gonzalez,ARZ,P,72,215,24.02,,,,,,,,,,,,
+Jose_Valverde,ARZ,P,76,254,27.6,,,,,,,,,,,,
+Jorge_Julio,ARZ,P,73,232,27.99,,,,,,,,,,,,
+Brandon_Lyon,ARZ,P,73,180,27.56,,,,,,,,,,,,
+Miguel_Olivo,FLA,C,72,215,28.63,,,,,,,,,,,,
+Matt_Treanor,FLA,C,74,220,30.99,,,,,,,,,,,,
+Mike_Jacobs,FLA,1B,74,180,26.33,,,,,,,,,,,,
+Dan_Uggla,FLA,2B,71,200,26.97,,,,,,,,,,,,
+Robert_Andino,FLA,SS,72,170,22.85,,,,,,,,,,,,
+Hanley_Ramirez,FLA,SS,75,195,23.19,,,,,,,,,,,,
+Miguel_Cabrera,FLA,3B,74,210,23.87,,,,,,,,,,,,
+Aaron_Boone,FLA,3B,74,200,33.98,,,,,,,,,,,,
+Joe_Borchard,FLA,OF,77,220,28.26,,,,,,,,,,,,
+AOFredo_Amezaga,FLA,OF,70,165,29.12,,,,,,,,,,,,
+Cody_Ross,FLA,OF,71,180,26.18,,,,,,,,,,,,
+Josh_Willingham,FLA,OF,73,200,28.03,,,,,,,,,,,,
+Jeremy_Hermida,FLA,OF,76,200,23.08,,,,,,,,,,,,
+Eric_Reed,FLA,OF,71,170,26.24,,,,,,,,,,,,
+Reggi_Abercrombie,FLA,OF,75,224,26.63,,,,,,,,,,,,
+Ricky_Nolasco,FLA,P,74,220,24.21,,,,,,,,,,,,
+Anibal_Sanchez,FLA,P,72,180,23.01,,,,,,,,,,,,
+Scott_Olsen,FLA,P,76,198,23.13,,,,,,,,,,,,
+Josh_Johnson,FLA,P,79,240,23.08,,,,,,,,,,,,
+Dontrelle_Willis,FLA,P,76,239,25.13,,,,,,,,,,,,
+Logan_Kensing,FLA,P,73,185,24.66,,,,,,,,,,,,
+Sergio_Mitre,FLA,P,76,210,26.03,,,,,,,,,,,,
+Kevin_Gregg,FLA,P,78,220,28.7,,,,,,,,,,,,
+Travis_Bowyer,FLA,P,75,200,25.57,,,,,,,,,,,,
+Renyel_Pinto,FLA,P,76,195,24.65,,,,,,,,,,,,
+Randy_Messenger,FLA,P,72,220,25.55,,,,,,,,,,,,
+Yusmeiro_Petit,FLA,P,72,230,22.27,,,,,,,,,,,,
+Carlos_Martinez,FLA,P,73,170,24.76,,,,,,,,,,,,
+Taylor_Tankersley,FLA,P,73,220,23.98,,,,,,,,,,,,
+Henry_Owens,FLA,P,75,230,27.85,,,,,,,,,,,,
+Jose_Garcia,FLA,P,71,165,22.14,,,,,,,,,,,,
+Matt_Lindstrom,FLA,P,76,205,27.05,,,,,,,,,,,,
+Javier_Valentin,CIN,C,70,192,31.45,,,,,,,,,,,,
+Chad_Moeller,CIN,C,75,210,32.03,,,,,,,,,,,,
+David_Ross,CIN,C,74,205,29.95,,,,,,,,,,,,
+Joey_Votto,CIN,1B,75,200,23.47,,,,,,,,,,,,
+Scott_Hatteberg,CIN,1B,73,210,37.21,,,,,,,,,,,,
+Brandon_Phillips,CIN,2B,71,185,25.67,,,,,,,,,,,,
+Juan_Castro,CIN,SS,71,195,34.69,,,,,,,,,,,,
+Alex_Gonzalez,CIN,SS,72,202,30.04,,,,,,,,,,,,
+Mark_Bellhorn,CIN,3B,73,205,32.52,,,,,,,,,,,,
+Edwin_Encarnacion,CIN,3B,73,195,24.15,,,,,,,,,,,,
+Jeff_Keppinger,CIN,3B,72,180,26.86,,,,,,,,,,,,
+Norris_Hopper,CIN,OF,69,200,27.94,,,,,,,,,,,,
+Chris_DenoOFia,CIN,OF,73,185,26.63,,,,,,,,,,,,
+Adam_Dunn,CIN,OF,78,240,27.31,,,,,,,,,,,,
+Bubba_Crosby,CIN,OF,71,185,30.55,,,,,,,,,,,,
+Jeff_Conine,CIN,OF,73,220,40.68,,,,,,,,,,,,
+Ken_Griffey_Jr.,CIN,OF,75,205,37.27,,,,,,,,,,,,
+Josh_Hamilton,CIN,OF,76,205,25.78,,,,,,,,,,,,
+Ryan_Freel,CIN,OF,70,180,30.98,,,,,,,,,,,,
+Kyle_Lohse,CIN,P,74,201,28.41,,,,,,,,,,,,
+Bronson_Arroyo,CIN,P,77,190,30.01,,,,,,,,,,,,
+Eric_Milton,CIN,P,75,208,31.57,,,,,,,,,,,,
+Aaron_Harang,CIN,P,79,240,28.81,,,,,,,,,,,,
+Kirk_Saarloos,CIN,P,72,,27.77,,,,,,,,,,,,
+Elizardo_Ramirez,CIN,P,72,180,24.09,,,,,,,,,,,,
+Todd_Coffey,CIN,P,77,230,26.47,,,,,,,,,,,,
+Brian_ShackeOFord,CIN,P,73,195,30.5,,,,,,,,,,,,
+Bill_Bray,CIN,P,75,215,23.74,,,,,,,,,,,,
+Bobby_Livingston,CIN,P,75,190,24.49,,,,,,,,,,,,
+Matt_Belisle,CIN,P,75,195,26.73,,,,,,,,,,,,
+Gary_Majewski,CIN,P,73,215,27.01,,,,,,,,,,,,
+Mike_Stanton,CIN,P,73,215,39.75,,,,,,,,,,,,
+Brad_Salmon,CIN,P,76,220,27.16,,,,,,,,,,,,
+Jared_Burton,CIN,P,77,220,25.74,,,,,,,,,,,,
+David_Weathers,CIN,P,75,230,37.43,,,,,,,,,,,,
+Rheal_Cormier,CIN,P,70,195,39.85,,,,,,,,,,,,
+Yorvit_Torrealba,COL,C,71,190,28.62,,,,,,,,,,,,
+Chris_Iannetta,COL,C,71,195,23.9,,,,,,,,,,,,
+Alvin_Colina,COL,C,75,209,25.18,,,,,,,,,,,,
+Todd_Helton,COL,1B,74,204,33.53,,,,,,,,,,,,
+Jamey_Carroll,COL,2B,69,170,33.03,,,,,,,,,,,,
+Kaz_Matsui,COL,2B,70,185,31.35,,,,,,,,,,,,
+Troy_Tulowitzki,COL,SS,75,205,22.39,,,,,,,,,,,,
+Clint_Barmes,COL,SS,72,175,27.99,,,,,,,,,,,,
+Garrett_Atkins,COL,3B,75,210,27.22,,,,,,,,,,,,
+Ryan_Spilborghs,COL,OF,73,190,27.49,,,,,,,,,,,,
+Cory_Sullivan,COL,OF,72,180,27.53,,,,,,,,,,,,
+Jeff_Salazar,COL,OF,72,180,26.26,,,,,,,,,,,,
+Willy_Taveras,COL,OF,72,160,25.18,,,,,,,,,,,,
+Matt_Holliday,COL,OF,76,235,27.12,,,,,,,,,,,,
+Brad_Hawpe,COL,OF,75,200,27.69,,,,,,,,,,,,
+Jeff_Baker,COL,OF,74,210,25.69,,,,,,,,,,,,
+Javy_Lopez,COL,DH,75,224,36.32,,,,,,,,,,,,
+Byung-Hyun_Kim,COL,P,69,180,28.11,,,,,,,,,,,,
+Rodrigo_Lopez,COL,P,73,190,31.21,,,,,,,,,,,,
+Brian_Lawrence,COL,P,72,197,30.8,,,,,,,,,,,,
+Josh_Fogg,COL,P,72,203,30.21,,,,,,,,,,,,
+Aaron_Cook,COL,P,75,205,28.06,,,,,,,,,,,,
+Denny_Bautista,COL,P,77,170,26.52,,,,,,,,,,,,
+Ubaldo_Jimenez,COL,P,76,200,23.1,,,,,,,,,,,,
+Jason_Hirsh,COL,P,80,250,25.02,,,,,,,,,,,,
+Jeff_Francis,COL,P,77,200,26.14,,,,,,,,,,,,
+Taylor_Buchholz,COL,P,76,220,25.38,,,,,,,,,,,,
+Ryan_Speier,COL,P,79,200,27.6,,,,,,,,,,,,
+Ramon_Ramirez,COL,P,71,190,25.5,,,,,,,,,,,,
+Manny_Corpas,COL,P,75,170,24.24,,,,,,,,,,,,
+Juan_Morillo,COL,P,73,190,23.32,,,,,,,,,,,,
+Brian_Fuentes,COL,P,76,220,31.56,,,,,,,,,,,,
+LaTroy_Hawkins,COL,P,77,215,34.19,,,,,,,,,,,,
+Tom_Martin,COL,P,73,206,36.78,,,,,,,,,,,,
+Jeremy_Affeldt,COL,P,76,215,27.73,,,,,,,,,,,,
+Paul_Lo_Duca,NYM,C,70,185,34.88,,,,,,,,,,,,
+Ramon_Castro,NYM,C,75,235,31,,,,,,,,,,,,
+Julio_Franco,NYM,1B,73,188,48.52,,,,,,,,,,,,
+Carlos_Delgado,NYM,1B,75,230,34.68,,,,,,,,,,,,
+Jose_Valentin,NYM,2B,70,195,37.38,,,,,,,,,,,,
+Anderson_Hernandez,NYM,2B,69,168,24.33,,,,,,,,,,,,
+Damion_Easley,NYM,SS,71,190,37.3,,,,,,,,,,,,
+Jose_Reyes,NYM,SS,72,160,23.72,,,,,,,,,,,,
+David_Wright,NYM,3B,72,200,24.19,,,,,,,,,,,,
+Ben_Johnson,NYM,OF,73,200,25.7,,,,,,,,,,,,
+Endy_Chavez,NYM,OF,70,189,29.06,,,,,,,,,,,,
+David_Newhan,NYM,OF,70,180,33.48,,,,,,,,,,,,
+Carlos_Beltran,NYM,OF,73,190,29.85,,,,,,,,,,,,
+Shawn_Green,NYM,OF,76,200,34.3,,,,,,,,,,,,
+Moises_Alou,NYM,OF,75,220,40.66,,,,,,,,,,,,
+Lastings_Milledge,NYM,OF,72,187,21.9,,,,,,,,,,,,
+Alay_Soler,NYM,P,73,240,27.39,,,,,,,,,,,,
+Mike_PeOFrey,NYM,P,79,190,23.13,,,,,,,,,,,,
+Pedro_Martinez,NYM,P,71,180,35.35,,,,,,,,,,,,
+Tom_Glavine,NYM,P,72,185,40.93,,,,,,,,,,,,
+Chan_Ho_Park,NYM,P,74,210,33.67,,,,,,,,,,,,
+Orlando_Hernandez,NYM,P,74,220,37.39,,,,,,,,,,,,
+Dave_Williams,NYM,P,74,219,27.97,,,,,,,,,,,,
+Oliver_Perez,NYM,P,72,190,25.54,,,,,,,,,,,,
+John_Maine,NYM,P,76,193,25.81,,,,,,,,,,,,
+Marcos_Carvajal,NYM,P,76,175,22.53,,,,,,,,,,,,
+Ambiorix_Burgos,NYM,P,72,180,22.86,,,,,,,,,,,,
+Jason_Vargas,NYM,P,72,215,24.07,,,,,,,,,,,,
+Jon_Adkins,NYM,P,71,210,29.5,,,,,,,,,,,,
+Juan_Padilla,NYM,P,72,200,30.03,,,,,,,,,,,,
+Duaner_Sanchez,NYM,P,72,190,27.38,,,,,,,,,,,,
+Pedro_Feliciano,NYM,P,70,185,30.51,,,,,,,,,,,,
+Aaron_Heilman,NYM,P,77,220,28.3,,,,,,,,,,,,
+Jorge_Sosa,NYM,P,74,170,29.84,,,,,,,,,,,,
+Scott_Schoeneweis,NYM,P,72,195,33.41,,,,,,,,,,,,
+Guillermo_Mota,NYM,P,76,205,33.6,,,,,,,,,,,,
+Billy_Wagner,NYM,P,71,195,35.6,,,,,,,,,,,,
+Philip_Humber,NYM,P,76,210,24.19,,,,,,,,,,,,
+Brad_Ausmus,HOU,C,71,190,37.88,,,,,,,,,,,,
+Humberto_Quintero,HOU,C,73,190,27.56,,,,,,,,,,,,
+Hector_Gimenez,HOU,C,70,180,24.42,,,,,,,,,,,,
+Lance_Berkman,HOU,1B,73,220,31.05,,,,,,,,,,,,
+Mike_Lamb,HOU,1B,73,190,31.56,,,,,,,,,,,,
+Mark_Loretta,HOU,2B,72,186,35.55,,,,,,,,,,,,
+Craig_Biggio,HOU,2B,71,185,41.21,,,,,,,,,,,,
+Brooks_Conrad,HOU,2B,71,190,27.12,,,,,,,,,,,,
+Chris_Burke,HOU,2B,71,180,26.97,,,,,,,,,,,,
+Eric_Bruntlett,HOU,2B,72,190,28.92,,,,,,,,,,,,
+Adam_Everett,HOU,SS,72,170,30.06,,,,,,,,,,,,
+Morgan_Ensberg,HOU,3B,74,210,31.51,,,,,,,,,,,,
+Carlos_Lee,HOU,OF,74,240,30.69,,,,,,,,,,,,
+Jason_Lane,HOU,OF,74,220,30.19,,,,,,,,,,,,
+Orlando_Palmeiro,HOU,OF,71,180,38.11,,,,,,,,,,,,
+Luke_Scott,HOU,OF,72,210,28.68,,,,,,,,,,,,
+Charlton_Jimerson,HOU,OF,75,210,27.44,,,,,,,,,,,,
+Fernando_Nieve,HOU,P,72,195,24.63,,,,,,,,,,,,
+Wandy_Rodriguez,HOU,P,71,160,28.11,,,,,,,,,,,,
+Brandon_Backe,HOU,P,72,180,28.9,,,,,,,,,,,,
+Matt_Albers,HOU,P,72,205,24.11,,,,,,,,,,,,
+Woody_Williams,HOU,P,72,200,40.53,,,,,,,,,,,,
+Roy_Oswalt,HOU,P,72,185,29.5,,,,,,,,,,,,
+Jason_Jennings,HOU,P,74,245,28.62,,,,,,,,,,,,
+Miguel_Asencio,HOU,P,74,190,26.42,,,,,,,,,,,,
+Brad_Lidge,HOU,P,77,210,30.18,,,,,,,,,,,,
+Trever_Miller,HOU,P,75,200,33.75,,,,,,,,,,,,
+David_Borkowski,HOU,P,73,200,30.06,,,,,,,,,,,,
+Dan_Wheeler,HOU,P,75,222,29.22,,,,,,,,,,,,
+Paul_Estrada,HOU,P,73,215,24.47,,,,,,,,,,,,
+Lincoln_Holdzkom,HOU,P,76,240,24.94,,,,,,,,,,,,
+Chris_Sampson,HOU,P,72,170,28.77,,,,,,,,,,,,
+Chad_Qualls,HOU,P,77,220,28.54,,,,,,,,,,,,
+Ezequiel_Astacio,HOU,P,75,156,27.32,,,,,,,,,,,,
+Mike_Lieberthal,LA,C,72,190,35.12,,,,,,,,,,,,
+Russell_Martin,LA,C,71,202,24.04,,,,,,,,,,,,
+Olmedo_Saenz,LA,1B,71,221,36.39,,,,,,,,,,,,
+James_Loney,LA,1B,75,200,22.81,,,,,,,,,,,,
+Nomar_Garciaparra,LA,1B,72,190,33.6,,,,,,,,,,,,
+Jeff_Kent,LA,2B,73,210,38.98,,,,,,,,,,,,
+Ramon_Martinez,LA,2B,73,190,34.39,,,,,,,,,,,,
+Marlon_Anderson,LA,2B,71,200,33.15,,,,,,,,,,,,
+Rafael_Furcal,LA,SS,70,165,29.35,,,,,,,,,,,,
+Wilson_Betemit,LA,3B,75,190,26.59,,,,,,,,,,,,
+Andy_LaRoche,LA,3B,71,185,23.46,,,,,,,,,,,,
+Matt_Kemp,LA,OF,76,230,22.43,,,,,,,,,,,,
+Andre_Ethier,LA,OF,73,208,24.89,,,,,,,,,,,,
+Delwyn_Young,LA,OF,68,209,24.67,,,,,,,,,,,,
+Jason_Repko,LA,OF,71,175,26.17,,,,,,,,,,,,
+Juan_Pierre,LA,OF,72,180,29.54,,,,,,,,,,,,
+Luis_Gonzalez,LA,OF,74,200,39.49,,,,,,,,,,,,
+Jason_Schmidt,LA,P,77,205,34.08,,,,,,,,,,,,
+Randy_WoOF,LA,P,72,200,30.52,,,,,,,,,,,,
+Brad_Penny,LA,P,76,250,28.77,,,,,,,,,,,,
+Derek_Lowe,LA,P,78,210,33.75,,,,,,,,,,,,
+Mark_Hendrickson,LA,P,81,230,32.69,,,,,,,,,,,,
+Chad_Billingsley,LA,P,72,244,22.59,,,,,,,,,,,,
+Takashi_Saito,LA,P,73,202,37.04,,,,,,,,,,,,
+Jonathan_Broxton,LA,P,76,240,22.7,,,,,,,,,,,,
+Hong-Chih_Kuo,LA,P,72,200,25.6,,,,,,,,,,,,
+Eric_Stults,LA,P,72,215,27.23,,,,,,,,,,,,
+Chin-Hui_Tsao,LA,P,74,177,25.74,,,,,,,,,,,,
+Tim_Hamulack,LA,P,76,210,30.29,,,,,,,,,,,,
+Yhency_Brazoban,LA,P,73,170,26.72,,,,,,,,,,,,
+Brett_Tomko,LA,P,76,215,33.9,,,,,,,,,,,,
+Joe_Beimel,LA,P,75,217,29.86,,,,,,,,,,,,
+Elmer_Dessens,LA,P,70,198,36.13,,,,,,,,,,,,
+Ryan_Budde,PHI,C,71,200,27.54,,,,,,,,,,,,
+Rod_Barajas,PHI,C,74,220,31.49,,,,,,,,,,,,
+Carlos_Ruiz,PHI,C,72,170,28.1,,,,,,,,,,,,
+Chris_Coste,PHI,C,73,200,34.07,,,,,,,,,,,,
+Ryan_Howard,PHI,1B,76,230,27.28,,,,,,,,,,,,
+Wes_Helms,PHI,1B,76,231,30.8,,,,,,,,,,,,
+Chase_Utley,PHI,2B,73,183,28.2,,,,,,,,,,,,
+Danny_Sandoval,PHI,2B,71,192,27.9,,,,,,,,,,,,
+Jimmy_Rollins,PHI,SS,68,167,28.26,,,,,,,,,,,,
+Abraham_Nu?ez,PHI,3B,71,190,30.96,,,,,,,,,,,,
+Michael_Bourn,PHI,OF,71,180,24.18,,,,,,,,,,,,
+Chris_Roberson,PHI,OF,74,180,27.52,,,,,,,,,,,,
+Jayson_Werth,PHI,OF,77,215,27.78,,,,,,,,,,,,
+Shane_Victorino,PHI,OF,69,160,26.25,,,,,,,,,,,,
+Aaron_Rowand,PHI,OF,72,205,29.5,,,,,,,,,,,,
+Pat_Burrell,PHI,OF,76,223,30.39,,,,,,,,,,,,
+Greg_Dobbs,PHI,DH,73,205,28.66,,,,,,,,,,,,
+Cole_Hamels,PHI,P,75,175,23.18,,,,,,,,,,,,
+AOFredo_Simon,PHI,P,76,170,25.81,,,,,,,,,,,,
+Scott_Mathieson,PHI,P,75,190,23.01,,,,,,,,,,,,
+Freddy_Garcia,PHI,P,76,240,31.72,,,,,,,,,,,,
+Jamie_Moyer,PHI,P,72,175,44.28,,,,,,,,,,,,
+Jon_Lieber,PHI,P,74,230,36.91,,,,,,,,,,,,
+Brett_Myers,PHI,P,76,223,26.54,,,,,,,,,,,,
+Adam_Eaton,PHI,P,74,196,29.27,,,,,,,,,,,,
+Geoff_Geary,PHI,P,72,167,30.51,,,,,,,,,,,,
+Clay_Condrey,PHI,P,75,195,31.28,,,,,,,,,,,,
+Ryan_Madson,PHI,P,78,190,26.51,,,,,,,,,,,,
+Antonio_AOFonseca,PHI,P,77,250,34.87,,,,,,,,,,,,
+Tom_Gordon,PHI,P,70,190,39.28,,,,,,,,,,,,
+Brian_Sanches,PHI,P,72,190,28.56,,,,,,,,,,,,
+Jim_Ed_Warden,PHI,P,79,190,27.82,,,,,,,,,,,,
+Anderson_Garcia,PHI,P,74,170,25.94,,,,,,,,,,,,
+Eude_Brito,PHI,P,71,160,28.53,,,,,,,,,,,,
+Fabio_Castro,PHI,P,68,150,22.11,,,,,,,,,,,,
+Matt_Smith,PHI,P,77,225,27.71,,,,,,,,,,,,
+Damian_Miller,MLW,C,75,220,37.38,,,,,,,,,,,,
+Johnny_Estrada,MLW,C,71,209,30.67,,,,,,,,,,,,
+Mike_Rivera,MLW,C,72,210,30.48,,,,,,,,,,,,
+J.D._Closser,MLW,C,70,176,27.12,,,,,,,,,,,,
+Prince_Fielder,MLW,1B,72,260,22.81,,,,,,,,,,,,
+Rickie_Weeks,MLW,2B,72,195,24.46,,,,,,,,,,,,
+Tony_Graffanino,MLW,2B,73,190,34.73,,,,,,,,,,,,
+Craig_Counsell,MLW,SS,72,184,36.53,,,,,,,,,,,,
+J.J._Hardy,MLW,SS,74,180,24.53,,,,,,,,,,,,
+Bill_Hall,MLW,SS,72,195,27.17,,,,,,,,,,,,
+Vinny_Rottino,MLW,3B,72,195,26.9,,,,,,,,,,,,
+Corey_Koskie,MLW,3B,75,219,33.67,,,,,,,,,,,,
+Kevin_Mench,MLW,OF,72,225,29.14,,,,,,,,,,,,
+Geoff_Jenkins,MLW,OF,73,212,32.61,,,,,,,,,,,,
+Brady_Clark,MLW,OF,74,202,33.87,,,,,,,,,,,,
+Tony_Gwynn_Jr.,MLW,OF,72,185,24.41,,,,,,,,,,,,
+Corey_Hart,MLW,OF,78,200,24.94,,,,,,,,,,,,
+Gabe_Gross,MLW,OF,75,209,27.36,,,,,,,,,,,,
+Laynce_Nix,MLW,OF,72,200,26.33,,,,,,,,,,,,
+Drew_Anderson,MLW,OF,74,195,25.72,,,,,,,,,,,,
+Claudio_Vargas,MLW,P,75,228,28.7,,,,,,,,,,,,
+Chris_Capuano,MLW,P,75,210,28.53,,,,,,,,,,,,
+Ben_Hendrickson,MLW,P,76,190,26.07,,,,,,,,,,,,
+Dave_Bush,MLW,P,74,212,27.31,,,,,,,,,,,,
+Carlos_Villanueva,MLW,P,74,190,23.26,,,,,,,,,,,,
+Ben_Sheets,MLW,P,73,218,28.62,,,,,,,,,,,,
+Jeff_Suppan,MLW,P,74,220,32.16,,,,,,,,,,,,
+Brian_Shouse,MLW,P,71,190,38.43,,,,,,,,,,,,
+Francisco_Cordero,MLW,P,74,235,31.81,,,,,,,,,,,,
+Derrick_Turnbow,MLW,P,75,210,29.1,,,,,,,,,,,,
+Matt_Wise,MLW,P,76,200,31.28,,,,,,,,,,,,
+Grant_BaOFour,MLW,P,74,188,29.17,,,,,,,,,,,,
+Dennis_SaOFate,MLW,P,76,210,25.89,,,,,,,,,,,,
+Jose_Capellan,MLW,P,76,235,26.13,,,,,,,,,,,,
+Greg_Aquino,MLW,P,73,188,29.13,,,,,,,,,,,,
+Josh_Bard,SD,C,75,215,28.92,,,,,,,,,,,,
+Rob_Bowen,SD,C,75,216,26.01,,,,,,,,,,,,
+Adrian_Gonzalez,SD,1B,74,220,24.81,,,,,,,,,,,,
+Marcus_Giles,SD,2B,68,180,28.79,,,,,,,,,,,,
+Todd_Walker,SD,2B,72,185,33.77,,,,,,,,,,,,
+Geoff_Blum,SD,SS,75,200,33.85,,,,,,,,,,,,
+Khalil_Greene,SD,SS,71,210,27.36,,,,,,,,,,,,
+Paul_McAnulty,SD,OF,70,220,26.01,,,,,,,,,,,,
+Terrmel_Sledge,SD,OF,72,185,29.95,,,,,,,,,,,,
+Jack_Cust,SD,OF,73,231,28.12,,,,,,,,,,,,
+Jose_Cruz_Jr.,SD,OF,72,210,32.87,,,,,,,,,,,,
+Russell_Branyan,SD,OF,75,195,31.2,,,,,,,,,,,,
+Mike_Cameron,SD,OF,74,200,34.14,,,,,,,,,,,,
+Brian_Giles,SD,OF,70,205,36.11,,,,,,,,,,,,
+Kevin_Kouzmanoff,SD,DH,73,200,25.6,,,,,,,,,,,,
+Mike_Thompson,SD,P,76,200,26.31,,,,,,,,,,,,
+Clay_Hensley,SD,P,71,190,27.5,,,,,,,,,,,,
+Chris_Young,SD,P,82,250,27.77,,,,,,,,,,,,
+Greg_Maddux,SD,P,72,185,40.88,,,,,,,,,,,,
+Jake_Peavy,SD,P,73,180,25.75,,,,,,,,,,,,
+Scott_Cassidy,SD,P,74,170,31.41,,,,,,,,,,,,
+Scott_Strickland,SD,P,71,180,30.84,,,,,,,,,,,,
+Scott_Linebrink,SD,P,75,208,30.57,,,,,,,,,,,,
+Doug_Brocail,SD,P,77,235,39.79,,,,,,,,,,,,
+Trevor_Hoffman,SD,P,72,215,39.38,,,,,,,,,,,,
+Heath_Bell,SD,P,74,244,29.42,,,,,,,,,,,,
+Royce_Ring,SD,P,72,220,26.19,,,,,,,,,,,,
+Cla_Meredith,SD,P,73,185,23.74,,,,,,,,,,,,
+Andrew_Brown,SD,P,78,230,26.03,,,,,,,,,,,,
+Mike_Adams,SD,P,77,190,28.59,,,,,,,,,,,,
+Justin_Hampson,SD,P,73,200,26.77,,,,,,,,,,,,
+Kevin_Cameron,SD,P,73,180,27.21,,,,,,,,,,,,
+Ryan_Ketchner,SD,P,73,190,24.87,,,,,,,,,,,,
+Brian_Schneider,WAS,C,73,196,30.26,,,,,,,,,,,,
+Jesus_Flores,WAS,C,73,180,22.34,,,,,,,,,,,,
+Larry_Broadway,WAS,1B,76,230,26.2,,,,,,,,,,,,
+Nick_Johnson,WAS,1B,75,224,28.45,,,,,,,,,,,,
+Bernie_Castro,WAS,2B,70,160,27.63,,,,,,,,,,,,
+Josh_Wilson,WAS,SS,73,178,25.93,,,,,,,,,,,,
+Cristian_Guzman,WAS,SS,72,205,28.94,,,,,,,,,,,,
+Felipe_Lopez,WAS,SS,73,185,26.8,,,,,,,,,,,,
+Ryan_Zimmerman,WAS,3B,75,210,22.42,,,,,,,,,,,,
+Nook_Logan,WAS,OF,74,180,27.26,,,,,,,,,,,,
+Ryan_Church,WAS,OF,73,190,28.38,,,,,,,,,,,,
+Kory_Casto,WAS,OF,73,200,25.23,,,,,,,,,,,,
+Mike_Restovich,WAS,OF,76,257,28.16,,,,,,,,,,,,
+Alex_Escobar,WAS,OF,73,190,28.48,,,,,,,,,,,,
+Austin_Kearns,WAS,OF,75,220,26.78,,,,,,,,,,,,
+Chris_Snelling,WAS,OF,70,165,25.24,,,,,,,,,,,,
+Billy_Traber,WAS,P,77,205,27.45,,,,,,,,,,,,
+Tim_Redding,WAS,P,72,200,29.05,,,,,,,,,,,,
+John_Patterson,WAS,P,77,208,29.08,,,,,,,,,,,,
+Shawn_Hill,WAS,P,74,185,25.84,,,,,,,,,,,,
+Joel_Hanrahan,WAS,P,75,215,25.4,,,,,,,,,,,,
+Mike_O'Connor,WAS,P,75,170,26.54,,,,,,,,,,,,
+Emiliano_Fruto,WAS,P,75,235,22.73,,,,,,,,,,,,
+Chris_Schroder,WAS,P,75,210,28.53,,,,,,,,,,,,
+Brett_Campbell,WAS,P,72,170,25.37,,,,,,,,,,,,
+Beltran_Perez,WAS,P,74,180,25.35,,,,,,,,,,,,
+Levale_Speigner,WAS,P,71,170,26.43,,,,,,,,,,,,
+Jason_Bergmann,WAS,P,76,190,25.43,,,,,,,,,,,,
+Saul_Rivera,WAS,P,71,150,29.23,,,,,,,,,,,,
+Chris_Booker,WAS,P,75,230,30.22,,,,,,,,,,,,
+Micah_Bowie,WAS,P,76,203,32.3,,,,,,,,,,,,
+Jon_Rauch,WAS,P,83,260,28.42,,,,,,,,,,,,
+Jerome_Williams,WAS,P,75,246,25.24,,,,,,,,,,,,
+Luis_Ayala,WAS,P,74,186,29.13,,,,,,,,,,,,
+Ryan_Wagner,WAS,P,76,210,24.63,,,,,,,,,,,,
+Chad_Cordero,WAS,P,72,198,24.95,,,,,,,,,,,,
+Humberto_Cota,PIT,C,72,210,28.06,,,,,,,,,,,,
+Ronny_Paulino,PIT,C,75,215,25.86,,,,,,,,,,,,
+Adam_LaRoche,PIT,1B,75,180,27.32,,,,,,,,,,,,
+Ryan_Doumit,PIT,1B,72,200,25.91,,,,,,,,,,,,
+Brad_Eldred,PIT,1B,77,245,26.63,,,,,,,,,,,,
+Jose_Castillo,PIT,2B,73,200,25.95,,,,,,,,,,,,
+Jack_Wilson,PIT,SS,72,192,29.17,,,,,,,,,,,,
+Freddy_Sanchez,PIT,3B,70,192,29.19,,,,,,,,,,,,
+Jason_Bay,PIT,OF,74,200,28.44,,,,,,,,,,,,
+Jose_Bautista,PIT,OF,72,192,26.36,,,,,,,,,,,,
+Xavier_Nady,PIT,OF,74,205,28.29,,,,,,,,,,,,
+Jody_Gerut,PIT,OF,72,190,29.45,,,,,,,,,,,,
+Nate_McLouth,PIT,OF,71,186,25.34,,,,,,,,,,,,
+Chris_Duffy,PIT,OF,70,170,26.86,,,,,,,,,,,,
+Rajai_Davis,PIT,OF,71,197,26.36,,,,,,,,,,,,
+Shane_Youman,PIT,P,76,219,27.39,,,,,,,,,,,,
+Yoslan_Herrera,PIT,P,74,200,25.84,,,,,,,,,,,,
+Josh_Shortslef,PIT,P,76,220,25.08,,,,,,,,,,,,
+Zach_Duke,PIT,P,74,207,23.87,,,,,,,,,,,,
+Paul_Maholm,PIT,P,74,225,24.68,,,,,,,,,,,,
+Tom_Gorzelanny,PIT,P,74,207,24.64,,,,,,,,,,,,
+Shawn_Chacon,PIT,P,75,212,29.19,,,,,,,,,,,,
+Tony_Armas_Jr.,PIT,P,75,225,28.84,,,,,,,,,,,,
+Ian_Snell,PIT,P,71,170,25.33,,,,,,,,,,,,
+Sean_Burnett,PIT,P,71,190,24.45,,,,,,,,,,,,
+John_Grabow,PIT,P,74,210,28.32,,,,,,,,,,,,
+Marty_McLeary,PIT,P,77,230,32.34,,,,,,,,,,,,
+Salomon_Torres,PIT,P,71,210,34.97,,,,,,,,,,,,
+Damaso_Marte,PIT,P,74,200,32.04,,,,,,,,,,,,
+Matt_Capps,PIT,P,75,238,23.49,,,,,,,,,,,,
+Josh_Sharpless,PIT,P,77,234,26.09,,,,,,,,,,,,
+Bryan_Bullington,PIT,P,76,222,26.41,,,,,,,,,,,,
+Jonah_Bayliss,PIT,P,74,200,26.55,,,,,,,,,,,,
+Brian_Rogers,PIT,P,76,190,24.62,,,,,,,,,,,,
+Juan_Perez,PIT,P,72,170,28.49,,,,,,,,,,,,
+Bengie_Molina,SF,C,71,220,32.61,,,,,,,,,,,,
+Eliezer_AOFonzo,SF,C,72,223,28.06,,,,,,,,,,,,
+Lance_Niekro,SF,1B,75,210,28.08,,,,,,,,,,,,
+Mark_Sweeney,SF,1B,73,215,37.34,,,,,,,,,,,,
+Ray_Durham,SF,2B,68,196,35.25,,,,,,,,,,,,
+Kevin_Frandsen,SF,2B,72,175,24.77,,,,,,,,,,,,
+Omar_Vizquel,SF,SS,69,175,39.85,,,,,,,,,,,,
+Rich_Aurilia,SF,3B,73,189,35.49,,,,,,,,,,,,
+Pedro_Feliz,SF,3B,73,205,31.84,,,,,,,,,,,,
+Todd_Linden,SF,OF,75,210,26.67,,,,,,,,,,,,
+Dave_Roberts,SF,OF,70,180,34.75,,,,,,,,,,,,
+Jason_Ellison,SF,OF,70,180,28.91,,,,,,,,,,,,
+Randy_Winn,SF,OF,74,197,32.73,,,,,,,,,,,,
+Ryan_Klesko,SF,OF,75,220,35.72,,,,,,,,,,,,
+Barry_Bonds,SF,OF,74,228,42.6,,,,,,,,,,,,
+Fred_Lewis,SF,OF,74,190,26.22,,,,,,,,,,,,
+Kelyn_Acosta,SF,P,73,204,21.85,,,,,,,,,,,,
+Jonathan_Sanchez,SF,P,74,165,24.28,,,,,,,,,,,,
+Matt_Cain,SF,P,75,216,22.41,,,,,,,,,,,,
+Matt_Morris,SF,P,77,220,32.56,,,,,,,,,,,,
+Russ_Ortiz,SF,P,73,208,32.74,,,,,,,,,,,,
+Noah_Lowry,SF,P,74,210,26.39,,,,,,,,,,,,
+Barry_Zito,SF,P,76,215,28.8,,,,,,,,,,,,
+Vinnie_Chulk,SF,P,74,195,28.2,,,,,,,,,,,,
+Kevin_Correia,SF,P,75,200,26.52,,,,,,,,,,,,
+Steve_Kline,SF,P,73,215,34.52,,,,,,,,,,,,
+Armando_Benitez,SF,P,76,229,34.32,,,,,,,,,,,,
+Scott_Munter,SF,P,78,240,26.98,,,,,,,,,,,,
+Jack_Taschner,SF,P,75,207,28.86,,,,,,,,,,,,
+Brian_Wilson,SF,P,73,205,24.96,,,,,,,,,,,,
+Merkin_Valdez,SF,P,77,208,25.3,,,,,,,,,,,,
+Brad_Hennessey,SF,P,74,185,27.06,,,,,,,,,,,,
+Billy_Sadler,SF,P,72,190,25.44,,,,,,,,,,,,
+Pat_Misch,SF,P,74,170,25.53,,,,,,,,,,,,
+Gary_Bennett,STL,C,72,208,34.87,,,,,,,,,,,,
+Yadier_Molina,STL,C,71,225,24.63,,,,,,,,,,,,
+John_Nelson,STL,1B,73,190,27.99,,,,,,,,,,,,
+Albert_Pujols,STL,1B,75,225,27.12,,,,,,,,,,,,
+Adam_Kennedy,STL,2B,73,185,31.14,,,,,,,,,,,,
+Aaron_Miles,STL,2B,67,180,30.21,,,,,,,,,,,,
+David_Eckstein,STL,SS,67,165,32.11,,,,,,,,,,,,
+Scott_Rolen,STL,3B,76,240,31.91,,,,,,,,,,,,
+Scott_Spiezio,STL,3B,74,220,34.44,,,,,,,,,,,,
+Jim_Edmonds,STL,OF,73,212,36.68,,,,,,,,,,,,
+So_Taguchi,STL,OF,70,163,37.66,,,,,,,,,,,,
+Juan_Encarnacion,STL,OF,75,215,30.98,,,,,,,,,,,,
+Skip_Schumaker,STL,OF,70,175,27.07,,,,,,,,,,,,
+John_Rodriguez,STL,OF,72,205,29.11,,,,,,,,,,,,
+Chris_Duncan,STL,OF,77,210,25.82,,,,,,,,,,,,
+Adam_Wainwright,STL,P,79,205,25.5,,,,,,,,,,,,
+Mark_Mulder,STL,P,78,208,29.57,,,,,,,,,,,,
+Anthony_Reyes,STL,P,74,215,25.37,,,,,,,,,,,,
+Ryan_Franklin,STL,P,75,180,33.99,,,,,,,,,,,,
+Kip_Wells,STL,P,75,200,29.86,,,,,,,,,,,,
+Chris_Carpenter,STL,P,78,230,31.84,,,,,,,,,,,,
+Russ_Springer,STL,P,76,211,38.31,,,,,,,,,,,,
+Jason_Isringhausen,STL,P,75,230,34.48,,,,,,,,,,,,
+Ricardo_Rincon,STL,P,69,190,36.88,,,,,,,,,,,,
+Braden_Looper,STL,P,75,220,32.34,,,,,,,,,,,,
+Randy_Flores,STL,P,72,180,31.58,,,,,,,,,,,,
+Josh_Hancock,STL,P,75,205,28.89,,,,,,,,,,,,
+Brad_Thompson,STL,P,73,190,25.08,,,,,,,,,,,,
+Tyler_Johnson,STL,P,74,180,25.73,,,,,,,,,,,,
+Chris_Narveson,STL,P,75,205,25.19,,,,,,,,,,,,
+Randy_Keisler,STL,P,75,190,31.01,,,,,,,,,,,,
+Josh_Kinney,STL,P,73,195,27.92,,,,,,,,,,,,
